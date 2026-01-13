@@ -332,7 +332,7 @@
       "fee": 377,
       "total": 378,
       "email": "newjimelyeuh@gmail.com",
-      "status": "PENDING",
+      "status": "CANCEL",
       "created_at": "2026-01-13T13:47:31.454Z",
       "payment": {
         "method": "QRIS",
@@ -342,7 +342,8 @@
         "package_ids": [
           "id.dana"
         ]
-      }
+      },
+      "canceled_at": "2026-01-13T13:53:36.664Z"
     }
   ]
 }

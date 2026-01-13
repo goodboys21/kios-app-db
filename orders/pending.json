@@ -84,6 +84,23 @@
         "qr_image": "https://larabert-qrgen.hf.space/v1/create-qr-code?size=500x500&data=00020101021226610016ID.CO.SHOPEE.WWW01189360091800216005230208216005230303UME51440014ID.CO.QRIS.WWW0215ID10243228429300303UME52047929530336054073674.005802ID5907Pakasir6012KAB.%20KEBUMEN61055439262220518146229248244394479630409DA",
         "expired_at": "2026-01-13T04:55:14.823566256Z"
       }
+    },
+    {
+      "order_id": "ORD-6507-7350",
+      "app_key": "viu",
+      "app_name": "Viu Premium",
+      "harga": 3000,
+      "fee": 338,
+      "total": 3338,
+      "email": "newjimelyeuh@gmail.com",
+      "status": "PENDING",
+      "created_at": "2026-01-13T03:55:35.431Z",
+      "payment": {
+        "method": "QRIS",
+        "provider": "Pakasir",
+        "qr_image": "https://larabert-qrgen.hf.space/v1/create-qr-code?size=500x500&data=00020101021226610016ID.CO.SHOPEE.WWW01189360091800216005230208216005230303UME51440014ID.CO.QRIS.WWW0215ID10243228429300303UME52047929530336054073672.005802ID5907Pakasir6012KAB.%20KEBUMEN610554392622205181459854652524805606304A88A",
+        "expired_at": "2026-01-13T04:55:34.973996744Z"
+      }
     }
   ]
 }

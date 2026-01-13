@@ -395,7 +395,7 @@
       "fee": 354,
       "total": 355,
       "email": "newjimelyeuh@gmail.com",
-      "status": "PENDING",
+      "status": "SUCCESS",
       "created_at": "2026-01-13T14:15:41.426Z",
       "payment": {
         "method": "QRIS",
@@ -405,7 +405,9 @@
         "package_ids": [
           "id.dana"
         ]
-      }
+      },
+      "paid_at": "2026-01-13T14:18:44.087Z",
+      "payment_method": "QRIS"
     }
   ]
 }

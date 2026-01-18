@@ -952,7 +952,7 @@
       "fee": 202,
       "total": 3202,
       "email": "Rizky d fff",
-      "status": "PENDING",
+      "status": "CANCEL",
       "created_at": "2026-01-17T23:43:13.456Z",
       "payment": {
         "method": "QRIS",
@@ -962,7 +962,8 @@
         "package_ids": [
           "id.dana"
         ]
-      }
+      },
+      "canceled_at": "2026-01-18T00:39:13.966Z"
     }
   ]
 }

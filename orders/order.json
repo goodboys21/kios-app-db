@@ -985,6 +985,26 @@
         ]
       },
       "canceled_at": "2026-01-19T07:36:29.246Z"
+    },
+    {
+      "order_id": "a530f9ee-0dd7-4be2-9568-e30697ae1054",
+      "app_key": "prime-video",
+      "app_name": "Prime Video Premium",
+      "harga": 7000,
+      "fee": 232,
+      "total": 7232,
+      "email": "kayxinn9@gmail.com",
+      "status": "PENDING",
+      "created_at": "2026-01-27T11:58:04.313Z",
+      "payment": {
+        "method": "QRIS",
+        "provider": "Cashify",
+        "qr_image": "https://larabert-qrgen.hf.space/v1/create-qr-code?size=500x500&data=00020101021226570011ID.DANA.WWW011893600915319020915402091902091540303UMI51440014ID.CO.QRIS.WWW0215ID10254367100790303UMI52045945530336054077232.005802ID5913BAGUS%20JURAGAN6010Kab.%20Demak61055956763044473",
+        "expired_in_minutes": 15,
+        "package_ids": [
+          "id.dana"
+        ]
+      }
     }
   ]
 }

@@ -5,8 +5,20 @@
       "product": "Netflix Premium",
       "contact": "628123456789",
       "amount": 10000,
-      "status": "pending",
-      "is_sent": false
+      "status": "success",
+      "is_sent": true,
+      "paid_at": "2026-03-26T07:32:22.950Z",
+      "payment_info": {
+        "service": "QRIS",
+        "reference": "QR12345",
+        "timestamp": "2024-03-08 10:00:00",
+        "data": {
+          "ref_no": "QR12345",
+          "amount": 10000,
+          "issuer": "GOPAY",
+          "rrn": "123456789012"
+        }
+      }
     }
   ]
 }

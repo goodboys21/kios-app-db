@@ -351,11 +351,13 @@
       "description": "AKUN DARI ADMIN\nDURASI 7 HARI\nLEGAL DAN BERGARANSI\nSHARING 2user",
       "stock_at_order": 5,
       "ip_address": "112.215.169.208",
-      "status": "pending",
+      "status": "cancel",
       "is_sent": false,
       "payment_ref_no": "QR1774606284719",
       "payment_url": "https://mustikapayment.com/pay/QR1774606284719",
-      "created_at": "2026-03-27T10:11:25.996Z"
+      "created_at": "2026-03-27T10:11:25.996Z",
+      "canceled_at": "2026-03-27T11:15:06.662Z",
+      "cancel_reason": "Auto cancel - tidak dibayar dalam 1 jam"
     }
   ]
 }

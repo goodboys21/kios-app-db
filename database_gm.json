@@ -145,11 +145,13 @@
       "seller_note": "LOGIN MENGGUNAKAN AKUN YANG DIBERIKAN\n\nLOGIN 1 PERANGKAT AJA!\nKETAUAN KENA BANNED!\n\n---\nCatatan Admin:\nLOGIN MENGGUNAKAN AKUN YANG DIBERIKAN\n\nLOGIN 1 PERANGKAT AJA!\nKETAUAN KENA BANNED!",
       "description": "AKUN DARI ADMIN\nDURASI 7 HARI\nLEGAL DAN BERGARANSI\nSHARING 2user",
       "stock_at_order": 7,
-      "status": "pending",
+      "status": "cancel",
       "is_sent": false,
       "payment_ref_no": "QR1774573528666",
       "payment_url": "https://mustikapayment.com/pay/QR1774573528666",
-      "created_at": "2026-03-27T01:05:29.893Z"
+      "created_at": "2026-03-27T01:05:29.893Z",
+      "canceled_at": "2026-03-27T02:15:06.748Z",
+      "cancel_reason": "Auto cancel - tidak dibayar dalam 1 jam"
     },
     {
       "order_id": "INV202603270638",
@@ -165,11 +167,13 @@
       "seller_note": "INFORMASI ADMIN JIKA MAU RESET PASSWORD YA\n\nSHARING MAX 3 USER AGAR TIDAK LIMIT\nDILARANG MERUBAH EMAIL , KEPERLUAN GARANSI NANTI\n\n---\nCatatan Admin:\nINFORMASI ADMIN JIKA MAU RESET PASSWORD YA\n\nSHARING MAX 3 USER AGAR TIDAK LIMIT\nDILARANG MERUBAH EMAIL , KEPERLUAN GARANSI NANTI",
       "description": "AKUN DARI ADMIN\nSUPPORT ALL DEVICE\nDURASI 28 HARI\nFULL GARANSI\nBEBAS GANTI PASSWORD",
       "stock_at_order": 3,
-      "status": "pending",
+      "status": "cancel",
       "is_sent": false,
       "payment_ref_no": "QR1774573554651",
       "payment_url": "https://mustikapayment.com/pay/QR1774573554651",
-      "created_at": "2026-03-27T01:05:55.837Z"
+      "created_at": "2026-03-27T01:05:55.837Z",
+      "canceled_at": "2026-03-27T02:15:06.748Z",
+      "cancel_reason": "Auto cancel - tidak dibayar dalam 1 jam"
     },
     {
       "order_id": "INV202603277653",
@@ -185,11 +189,13 @@
       "seller_note": "𝙨𝙮𝙖𝙧𝙖𝙩 & 𝙠𝙚𝙩𝙚𝙣𝙩𝙪𝙖𝙣 : \n\n— 𝙡𝙤𝙜𝙞𝙣 𝙖𝙠𝙪𝙣 𝙫𝙞𝙖 email\n─ dilarang mengutak - atik billing pembayaran\n─ dilarang mengubah detail akun (email, password dan detail lainnya) \n\n---\nCatatan Admin:\n𝙨𝙮𝙖𝙧𝙖𝙩 & 𝙠𝙚𝙩𝙚𝙣𝙩𝙪𝙖𝙣 : \n\n— 𝙡𝙤𝙜𝙞𝙣 𝙖𝙠𝙪𝙣 𝙫𝙞𝙖 email\n─ dilarang mengutak - atik billing pembayaran\n─ dilarang mengubah detail akun (email, password dan detail lainnya) ",
       "description": "MEITU VIP+ 35D (+ VIP 70D)\n\n• garansi 28-30D untuk plan VIP+ nya saja, untuk vip biasa nya sementara nogar\n• patuhi snk untuk garansi, melanggar = 𝗱𝗲𝗻𝗱𝗮 𝟮𝟬𝟬𝗸 𝗱𝗮𝗻 𝗴𝗮𝗿𝗮𝗻𝘀𝗶 𝗵𝗮𝗻𝗴𝘂𝘀\n• jika ingin login ios, pastikan device nya tidak pernah ada riwayat \"account error\" sebelumnya, untuk andro sementara relatif aman.\n• kebijakan aplikasi dapat berubah sewaktu waktu, tidak ada garansi untuk perubahan kebijakan aplikasi karena diluar kendali seller.",
       "stock_at_order": 2,
-      "status": "pending",
+      "status": "cancel",
       "is_sent": false,
       "payment_ref_no": "QR1774573614072",
       "payment_url": "https://mustikapayment.com/pay/QR1774573614072",
-      "created_at": "2026-03-27T01:06:55.302Z"
+      "created_at": "2026-03-27T01:06:55.302Z",
+      "canceled_at": "2026-03-27T02:15:06.748Z",
+      "cancel_reason": "Auto cancel - tidak dibayar dalam 1 jam"
     },
     {
       "order_id": "INV202603271179",

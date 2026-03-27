@@ -233,11 +233,17 @@
       "seller_note": "LOGIN MENGGUNAKAN AKUN YANG DIBERIKAN\n\nLOGIN 1 PERANGKAT AJA!\nKETAUAN KENA BANNED!\n\n---\nCatatan Admin:\nLOGIN MENGGUNAKAN AKUN YANG DIBERIKAN\n\nLOGIN 1 PERANGKAT AJA!\nKETAUAN KENA BANNED!",
       "description": "AKUN DARI ADMIN\nDURASI 7 HARI\nLEGAL DAN BERGARANSI\nSHARING 2user",
       "stock_at_order": 7,
-      "status": "pending",
+      "status": "success",
       "is_sent": false,
       "payment_ref_no": "QR1774585002754",
       "payment_url": "https://mustikapayment.com/pay/QR1774585002754",
-      "created_at": "2026-03-27T04:16:44.006Z"
+      "created_at": "2026-03-27T04:16:44.006Z",
+      "paid_at": "2026-03-27T04:19:56.110Z",
+      "payment_details": {
+        "issuer": "GOPAY",
+        "rrn": "123456789012",
+        "timestamp": "2026-03-27 11:30:00"
+      }
     }
   ]
 }

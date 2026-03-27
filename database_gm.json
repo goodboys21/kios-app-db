@@ -259,11 +259,13 @@
       "seller_note": "LOGIN MENGGUNAKAN EMAIL DI VIU\n\nDILARANG OTAK ATIK PEMBAYARAN DAN GANTI AKUN\nPAKAI 1 PERANGKAT AJA!\n\n---\nCatatan Admin:\nLOGIN MENGGUNAKAN EMAIL DI VIU\n\nDILARANG OTAK ATIK PEMBAYARAN DAN GANTI AKUN\nPAKAI 1 PERANGKAT AJA!",
       "description": "AKUN DARI ADMIN\n\nLEGAL DAN BERGARANSI\nDURASI 3 BULAN FULL\nPRIVATE ACCOUNT",
       "stock_at_order": 8,
-      "status": "pending",
+      "status": "cancel",
       "is_sent": false,
       "payment_ref_no": "QR1774592360886",
       "payment_url": "https://mustikapayment.com/pay/QR1774592360886",
-      "created_at": "2026-03-27T06:19:22.068Z"
+      "created_at": "2026-03-27T06:19:22.068Z",
+      "canceled_at": "2026-03-27T07:30:08.687Z",
+      "cancel_reason": "Auto cancel - tidak dibayar dalam 1 jam"
     },
     {
       "order_id": "QR1774593233288",

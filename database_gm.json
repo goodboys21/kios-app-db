@@ -613,6 +613,32 @@
       "qr_image": "https://larabert-qrgen.hf.space/v1/create-qr-code?size=500x500&style=3&color=000000&data=00020101021226680016ID.PAKAIDONK.WWW01189360084500000155250215ID10264912475440303UME51390016ID.PAKAIDONK.WWW0215ID10264912475445204653353033605405251255802ID5915mustika%20payment6005BLORA6105583816246012126032812491330765143207091C32BJDV50804POSP63047A8A",
       "created_at": "2026-03-28T05:49:13.702Z",
       "expired_at": "2026-03-28T05:59:09.917Z"
+    },
+    {
+      "order_id": "QR1774677461837",
+      "variant_id": 498,
+      "product_id": 18,
+      "product_name": "Capcut",
+      "variant_name": "7 Hari Sharing",
+      "price": 5850,
+      "fee": 474,
+      "total": 6324,
+      "contact": "newjimelyeuh@gmail.com",
+      "catatan": "Pembelian paket 7 Hari Sharing",
+      "seller_note": "LOGIN MENGGUNAKAN AKUN YANG DIBERIKAN\n\nLOGIN 1 PERANGKAT AJA!\nKETAUAN KENA BANNED!\n\n---\nCatatan Admin:\nLOGIN MENGGUNAKAN AKUN YANG DIBERIKAN\n\nLOGIN 1 PERANGKAT AJA!\nKETAUAN KENA BANNED!",
+      "description": "AKUN DARI ADMIN\nDURASI 7 HARI\nLEGAL DAN BERGARANSI\nSHARING 2user",
+      "stock_at_order": 100,
+      "lock_token": null,
+      "lock_expires_at": null,
+      "ip_address": "112.215.169.148",
+      "status": "pending",
+      "is_sent": false,
+      "payment_ref_no": "QR1774677461837",
+      "payment_url": "https://gmpay.zone.id/QR1774677461837",
+      "qr_content": "00020101021226680016ID.PAKAIDONK.WWW01189360084500000155250215ID10264912475440303UME51390016ID.PAKAIDONK.WWW0215ID1026491247544520465335303360540463245802ID5915mustika payment6005BLORA61055838162460121260328125742595168662070950QHKHGY50804POSP63043C7F",
+      "qr_image": "https://larabert-qrgen.hf.space/v1/create-qr-code?size=500x500&style=3&color=000000&data=00020101021226680016ID.PAKAIDONK.WWW01189360084500000155250215ID10264912475440303UME51390016ID.PAKAIDONK.WWW0215ID1026491247544520465335303360540463245802ID5915mustika%20payment6005BLORA61055838162460121260328125742595168662070950QHKHGY50804POSP63043C7F",
+      "created_at": "2026-03-28T05:57:42.957Z",
+      "expired_at": "2026-03-28T06:07:39.244Z"
     }
   ]
 }

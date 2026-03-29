@@ -109,6 +109,66 @@
         ]
       },
       "completed_at": "2026-03-29T01:15:05.873Z"
+    },
+    {
+      "invoice": "SPY1774765100VNPC",
+      "ref_id": "GM-E0RGRKHZ",
+      "contact": "xenaalanglis@gmail.com",
+      "order_id": "QR1774765050964",
+      "product_name": "Alight Motion",
+      "variant_name": "1 Tahun [ Android ]",
+      "variant_id": 8,
+      "amount": 4430,
+      "seller_note": "SILAHKAN IKUTI TUTORIAL LOGIN DIBAWAH INI :\n\nhttps://youtu.be/YfT2dggAGqM?si=L6XzymPsv5D5PLMf\n\n---\nCatatan Admin:\nSILAHKAN IKUTI TUTORIAL LOGIN DIBAWAH INI :\n\nhttps://youtu.be/YfT2dggAGqM?si=L6XzymPsv5D5PLMf",
+      "created_at": "2026-03-29T06:18:28.780Z",
+      "email_notification_sent": true,
+      "api_response": {
+        "message": "OK",
+        "data": {
+          "invoice": "SPY1774765100VNPC",
+          "ref_id": "GM-E0RGRKHZ",
+          "status": "paid",
+          "price": 960,
+          "fees": null,
+          "amount": 960,
+          "contact": "bagusbahril30@gmail.com",
+          "created_at": "2026-03-29T13:18:20+07:00"
+        }
+      },
+      "status": "completed",
+      "license": "EMAIL : dorothy6@alightmotion.id | EMAILAKSES : https://generator.email/dorothy6@alightmotion.id | CARALOGIN : https://youtu.be/8emqddsjPsE?si=xgAY-8pv0xvzs0iS",
+      "license_email": "EMAIL : dorothy6@alightmotion.id ",
+      "license_password": " EMAILAKSES : https://generator.email/dorothy6@alightmotion.id ",
+      "product_license": "EMAIL : dorothy6@alightmotion.id | EMAILAKSES : https://generator.email/dorothy6@alightmotion.id | CARALOGIN : https://youtu.be/8emqddsjPsE?si=xgAY-8pv0xvzs0iS",
+      "detail_response": {
+        "id": 110869,
+        "ref_id": "GM-E0RGRKHZ",
+        "invoice": "SPY1774765100VNPC",
+        "payment_method": "saldo",
+        "status": "completed",
+        "price": 960,
+        "fees": 0,
+        "amount": 960,
+        "note": "Transaksi berhasil, data produk akan segera dikirimkan",
+        "expired_at": null,
+        "created_at": "2026-03-29T06:18:20.000000Z",
+        "updated_at": "2026-03-29T06:18:39.000000Z",
+        "items": [
+          {
+            "variant_id": 8,
+            "variant_name": "1 Tahun [ Android ]",
+            "product_name": "Alight Motion",
+            "product_license": "EMAIL : dorothy6@alightmotion.id | EMAILAKSES : https://generator.email/dorothy6@alightmotion.id | CARALOGIN : https://youtu.be/8emqddsjPsE?si=xgAY-8pv0xvzs0iS",
+            "seller_note": null,
+            "description": "<p>[!] AKUN DARI ADMIN SUDAH DISEDIAKAN</p><p><br></p><p>[!] FITUR DAN BENEFITS</p><p>- NO ADS</p><p>- NO WATERMARK</p><p>- SUPPORT FILE XML 5MB</p><p>- SUPPORT ANDROID / IOS</p>",
+            "price": 960,
+            "qty": 1,
+            "note": "",
+            "order_process": "auto"
+          }
+        ]
+      },
+      "completed_at": "2026-03-29T06:20:06.792Z"
     }
   ]
 }

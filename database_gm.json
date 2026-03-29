@@ -895,6 +895,32 @@
       "expired_at": "2026-03-28T21:32:49.811Z",
       "canceled_at": "2026-03-28T21:33:02.871Z",
       "cancel_reason": "Auto cancel - tidak dibayar dalam 10 menit"
+    },
+    {
+      "order_id": "QR1774743279125",
+      "variant_id": 8,
+      "product_id": 7,
+      "product_name": "Alight Motion",
+      "variant_name": "1 Tahun [ Android ]",
+      "price": 3960,
+      "fee": 261,
+      "total": 4221,
+      "contact": "refanfabregas96@gmail.com",
+      "catatan": "Pembelian paket 1 Tahun [ Android ]",
+      "seller_note": "SILAHKAN IKUTI TUTORIAL LOGIN DIBAWAH INI :\n\nhttps://youtu.be/YfT2dggAGqM?si=L6XzymPsv5D5PLMf\n\n---\nCatatan Admin:\nSILAHKAN IKUTI TUTORIAL LOGIN DIBAWAH INI :\n\nhttps://youtu.be/YfT2dggAGqM?si=L6XzymPsv5D5PLMf",
+      "description": "AKUN DARI ADMIN\n\nJANGAN GANTI EMAIL\n\n— PRIVATE ACCOUNT\n— LOGIN VIA EMAIL\n— ANTI ERROR\n— GARANSI 6 BULAN",
+      "stock_at_order": 220,
+      "lock_token": null,
+      "lock_expires_at": null,
+      "ip_address": "103.78.115.193",
+      "status": "pending",
+      "is_sent": false,
+      "payment_ref_no": "QR1774743279125",
+      "payment_url": "https://gmpay.zone.id/QR1774743279125",
+      "qr_content": "00020101021226680016ID.PAKAIDONK.WWW01189360084500000155250215ID10264912475440303UME51390016ID.PAKAIDONK.WWW0215ID1026491247544520465335303360540442215802ID5915mustika payment6005BLORA610558381624601212603290714399167558720709TAQFU2Z610804POSP63046E2F",
+      "qr_image": "https://larabert-qrgen.hf.space/v1/create-qr-code?size=500x500&style=3&color=000000&data=00020101021226680016ID.PAKAIDONK.WWW01189360084500000155250215ID10264912475440303UME51390016ID.PAKAIDONK.WWW0215ID1026491247544520465335303360540442215802ID5915mustika%20payment6005BLORA610558381624601212603290714399167558720709TAQFU2Z610804POSP63046E2F",
+      "created_at": "2026-03-29T00:14:40.376Z",
+      "expired_at": "2026-03-29T00:24:35.587Z"
     }
   ]
 }

@@ -1047,6 +1047,32 @@
         "email_sent": true
       },
       "sent_at": "2026-03-29T06:20:07.737Z"
+    },
+    {
+      "order_id": "QR1774839223603",
+      "variant_id": 5436,
+      "product_id": 14,
+      "product_name": "Netflix",
+      "variant_name": "1 Profile Random User",
+      "price": 24780,
+      "fee": 337,
+      "total": 25117,
+      "contact": "tugfuhgyais@gmail.com",
+      "catatan": "Pembelian paket 1 Profile Random User",
+      "seller_note": "Syarat & Ketentuan \n\n- Login 1 Perangkat\n- Dilarang otak atik profile dan pin , ketahuan tidak akan mendapatkan garansi\n- Dilarang otak atik payment account, merubah password dan mencoba hacking akan ditarik akunnya!\n- Garansi 28-30 Hari, jika sudah menyentuh 28 hari akun tidak bisa digunakan sudah dipastikan habis!\n\n---\nCatatan Admin:\nSyarat & Ketentuan \n\n- Login 1 Perangkat\n- Dilarang otak atik profile dan pin , ketahuan tidak akan mendapatkan garansi\n- Dilarang otak atik payment account, merubah password dan mencoba hacking akan ditarik akunnya!\n- Garansi 28-30 Hari, jika sudah menyentuh 28 hari akun tidak bisa digunakan sudah dipastikan habis!",
+      "description": "AKUN DARI ADMIN\n\n1 PROFILE RANDOM SHARE\nHANYA DIBAGIKAN KE 7 USERS\n\nADA KEMUNGKINAN LIMIT SCREEN",
+      "stock_at_order": 1,
+      "lock_token": "LCK-66e3df69-9c06-45ef-9764-de2e66fb98fd",
+      "lock_expires_at": "2026-03-30T10:03:41+07:00",
+      "ip_address": "114.8.204.177",
+      "status": "pending",
+      "is_sent": false,
+      "payment_ref_no": "QR1774839223603",
+      "payment_url": "https://gmpay.zone.id/QR1774839223603",
+      "qr_content": "00020101021226680016ID.PAKAIDONK.WWW01189360084500000155250215ID10264912475440303UME51390016ID.PAKAIDONK.WWW0215ID10264912475445204653353033605405251175802ID5915mustika payment6005BLORA6105583816246012126033009534436335745207096CWB0UBKW0804POSP6304860C",
+      "qr_image": "https://larabert-qrgen.hf.space/v1/create-qr-code?size=500x500&style=3&color=000000&data=00020101021226680016ID.PAKAIDONK.WWW01189360084500000155250215ID10264912475440303UME51390016ID.PAKAIDONK.WWW0215ID10264912475445204653353033605405251175802ID5915mustika%20payment6005BLORA6105583816246012126033009534436335745207096CWB0UBKW0804POSP6304860C",
+      "created_at": "2026-03-30T02:53:44.902Z",
+      "expired_at": "2026-03-30T03:03:38.591Z"
     }
   ]
 }

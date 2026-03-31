@@ -1159,6 +1159,32 @@
       "expired_at": "2026-03-31T15:28:54.297Z",
       "canceled_at": "2026-03-31T15:29:02.434Z",
       "cancel_reason": "Auto cancel - tidak dibayar dalam 10 menit"
+    },
+    {
+      "order_id": "QR1774971061292",
+      "variant_id": 6,
+      "product_id": 5,
+      "product_name": "Canva",
+      "variant_name": "1 Bulan",
+      "price": 3190,
+      "fee": 265,
+      "total": 3455,
+      "contact": "bearshadow01@automizelymail.info",
+      "catatan": "Pembelian paket Premium 1 Bulan",
+      "seller_note": "CANVA PRO 1 BULAN\n\n1. 𝘾𝙤𝙥𝙖𝙨 𝙡𝙞𝙣𝙠 𝙘𝙖𝙣𝙫𝙖\n2. 𝙋𝙖𝙨𝙩𝙚 𝙙𝙞 𝙗𝙧𝙤𝙬𝙨𝙚𝙧!\n\n3. Klik “𝙘𝙤𝙣𝙩𝙞𝙣𝙪𝙚 𝙬𝙞𝙩𝙝 𝙚𝙢𝙖𝙞𝙡”\n4. Isi email canva kamu.\n5. Masukan sandi / kode yang dikirim ke email kamu.\n6. Selesai.\n\n[!] KALO MASIH BINGUNG CEK TUTOR DIBAWAH\n\n▶️ https://youtu.be/p_xpw5M1zaU\n\n☑️ : min kok di apliksi belum PRO?\n✅ : silahkan login ulang di aplikasi!\n\nJIKA SUDAH KONFIRMASI 🥰\n\n---\nCatatan Admin:\nProses otomatis",
+      "description": "DURASI 30 HARI \nPAKAI AKUN KAMU SENDIRI\nLEGAL DAN BERGARANSI",
+      "stock_at_order": 57,
+      "lock_token": null,
+      "lock_expires_at": null,
+      "ip_address": "114.8.226.244",
+      "status": "pending",
+      "is_sent": false,
+      "payment_ref_no": "QR1774971061292",
+      "payment_url": "https://gmpay.zone.id/QR1774971061292",
+      "qr_content": "00020101021226680016ID.PAKAIDONK.WWW01189360084500000155250215ID10264912475440303UME51390016ID.PAKAIDONK.WWW0215ID1026491247544520465335303360540434555802ID5915mustika payment6005BLORA61055838162460121260331223102073044632070967EQN5BZE0804POSP6304AB31",
+      "qr_image": "https://larabert-qrgen.hf.space/v1/create-qr-code?size=500x500&style=3&color=000000&data=00020101021226680016ID.PAKAIDONK.WWW01189360084500000155250215ID10264912475440303UME51390016ID.PAKAIDONK.WWW0215ID1026491247544520465335303360540434555802ID5915mustika%20payment6005BLORA61055838162460121260331223102073044632070967EQN5BZE0804POSP6304AB31",
+      "created_at": "2026-03-31T15:31:02.556Z",
+      "expired_at": "2026-03-31T15:40:56.842Z"
     }
   ]
 }

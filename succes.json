@@ -241,6 +241,68 @@
         ]
       },
       "completed_at": "2026-04-01T23:35:04.655Z"
+    },
+    {
+      "invoice": null,
+      "ref_id": "GM-2R4H514I",
+      "contact": "alfinanurillah84@gmail.com",
+      "order_id": "QR1775087950638",
+      "product_name": "Alight Motion",
+      "variant_name": "1 Tahun [ Android ]",
+      "variant_id": 8,
+      "amount": 4268,
+      "seller_note": "SILAHKAN IKUTI TUTORIAL LOGIN DIBAWAH INI :\n\nhttps://youtu.be/YfT2dggAGqM?si=L6XzymPsv5D5PLMf\n\n---\nCatatan Admin:\nSILAHKAN IKUTI TUTORIAL LOGIN DIBAWAH INI :\n\nhttps://youtu.be/YfT2dggAGqM?si=L6XzymPsv5D5PLMf",
+      "created_at": "2026-04-02T00:00:28.681Z",
+      "email_notification_sent": true,
+      "api_response": {
+        "error": "Operation timed out after 20001 milliseconds with 0 bytes received"
+      },
+      "status": "completed",
+      "license": "EMAIL : elsacroni@alightmotion.id | EMAILAKSES : https://generator.email/elsacroni@alightmotion.id | CARALOGIN : https://youtu.be/8emqddsjPsE?si=xgAY-8pv0xvzs0iS",
+      "license_data": [
+        {
+          "key": "EMAIL",
+          "value": "elsacroni@alightmotion.id"
+        },
+        {
+          "key": "EMAILAKSES",
+          "value": "https"
+        },
+        {
+          "key": "CARALOGIN",
+          "value": "https"
+        }
+      ],
+      "product_license": "EMAIL : elsacroni@alightmotion.id | EMAILAKSES : https://generator.email/elsacroni@alightmotion.id | CARALOGIN : https://youtu.be/8emqddsjPsE?si=xgAY-8pv0xvzs0iS",
+      "detail_response": {
+        "id": 111895,
+        "ref_id": "GM-2R4H514I",
+        "invoice": "SPY1775088014CKZ6",
+        "payment_method": "saldo",
+        "status": "completed",
+        "price": 960,
+        "fees": 0,
+        "amount": 960,
+        "note": "Transaksi berhasil, data produk akan segera dikirimkan",
+        "expired_at": null,
+        "created_at": "2026-04-02T00:00:14.000000Z",
+        "updated_at": "2026-04-02T00:01:15.000000Z",
+        "items": [
+          {
+            "variant_id": 8,
+            "variant_name": "1 Tahun [ Android ]",
+            "product_name": "Alight Motion",
+            "product_license": "EMAIL : elsacroni@alightmotion.id | EMAILAKSES : https://generator.email/elsacroni@alightmotion.id | CARALOGIN : https://youtu.be/8emqddsjPsE?si=xgAY-8pv0xvzs0iS",
+            "seller_note": null,
+            "description": "<p>[!] AKUN DARI ADMIN SUDAH DISEDIAKAN</p><p><br></p><p>[!] FITUR DAN BENEFITS</p><p>- NO ADS</p><p>- NO WATERMARK</p><p>- SUPPORT FILE XML 5MB</p><p>- SUPPORT ANDROID / IOS</p>",
+            "price": 960,
+            "qty": 1,
+            "note": "",
+            "order_process": "auto"
+          }
+        ]
+      },
+      "completed_at": "2026-04-02T00:05:05.568Z"
     }
   ]
 }

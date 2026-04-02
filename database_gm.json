@@ -1503,6 +1503,32 @@
         "email_sent": true
       },
       "sent_at": "2026-04-02T13:50:09.616Z"
+    },
+    {
+      "order_id": "QR1775139380385",
+      "variant_id": 9,
+      "product_id": 2,
+      "product_name": "Apple Music",
+      "variant_name": "Ios 1 Bulan",
+      "price": 6325,
+      "fee": 823,
+      "total": 7148,
+      "contact": "ayanamirei2908@gmail.com",
+      "catatan": "Pembelian paket Ios 1 Bulan",
+      "seller_note": "Sudah kita kirimkan invitation ke email kak,\n\n1. Buka aplikasi gmail\n2. Klik email masuk dari invitation apple\n3. Klik \"Mulai\"\n4. Konfirmasi ID apple kamu\n5. Selesai.\n\n---\nCatatan Admin:\nSudah kita kirimkan invitation ke email kak,\n\n1. Buka aplikasi gmail\n2. Klik email masuk dari invitation apple\n3. Klik \"Mulai\"\n4. Konfirmasi ID apple kamu\n5. Selesai.",
+      "description": "GUNAKAN EMAIL APPLE MUSIC KALIAN\n\nDIPASTIKAN BARU JOIN FAMILY 1x AGAR TIDAK TERKENA LIMIT",
+      "stock_at_order": 100,
+      "lock_token": null,
+      "lock_expires_at": null,
+      "ip_address": "103.129.151.25",
+      "status": "pending",
+      "is_sent": false,
+      "payment_ref_no": "QR1775139380385",
+      "payment_url": "https://gmpay.zone.id/QR1775139380385",
+      "qr_content": "00020101021226680016ID.PAKAIDONK.WWW01189360084500000155250215ID10264912475440303UME51390016ID.PAKAIDONK.WWW0215ID1026491247544520465335303360540471485802ID5915mustika payment6005BLORA6105583816246012126040221162129818593207091MZSS9FBG0804POSP6304F8E6",
+      "qr_image": "https://larabert-qrgen.hf.space/v1/create-qr-code?size=500x500&style=3&color=000000&data=00020101021226680016ID.PAKAIDONK.WWW01189360084500000155250215ID10264912475440303UME51390016ID.PAKAIDONK.WWW0215ID1026491247544520465335303360540471485802ID5915mustika%20payment6005BLORA6105583816246012126040221162129818593207091MZSS9FBG0804POSP6304F8E6",
+      "created_at": "2026-04-02T14:16:21.886Z",
+      "expired_at": "2026-04-02T14:26:16.424Z"
     }
   ]
 }

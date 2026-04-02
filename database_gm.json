@@ -1612,7 +1612,7 @@
       "lock_expires_at": null,
       "ip_address": "157.66.36.150",
       "status": "success",
-      "is_sent": false,
+      "is_sent": true,
       "payment_ref_no": "QR1775140982974",
       "payment_url": "https://gmpay.zone.id/QR1775140982974",
       "qr_content": "00020101021226680016ID.PAKAIDONK.WWW01189360084500000155250215ID10264912475440303UME51390016ID.PAKAIDONK.WWW0215ID1026491247544520465335303360540444275802ID5915mustika payment6005BLORA6105583816246012126040221430386410974207092GVT1IG7M0804POSP63041575",
@@ -1625,7 +1625,8 @@
         "rrn": "141071415453",
         "timestamp": "2026-04-02 21:44:32.510294",
         "email_sent": true
-      }
+      },
+      "sent_at": "2026-04-02T14:45:13.252Z"
     }
   ]
 }

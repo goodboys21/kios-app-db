@@ -2067,7 +2067,7 @@
       "lock_token": null,
       "lock_expires_at": null,
       "ip_address": "180.249.35.80",
-      "status": "pending",
+      "status": "cancel",
       "is_sent": false,
       "payment_ref_no": "QR1775211855859",
       "payment_url": "https://gmpay.zone.id/QR1775211855859",
@@ -2081,7 +2081,9 @@
         "rrn": "001097949191",
         "timestamp": "2026-04-03 17:25:31.483810",
         "email_sent": true
-      }
+      },
+      "canceled_at": "2026-04-03T15:05:04.078Z",
+      "cancel_reason": "Auto cancel - tidak dibayar dalam 10 menit"
     },
     {
       "order_id": "QR1775212312835",
@@ -2100,7 +2102,7 @@
       "lock_token": null,
       "lock_expires_at": null,
       "ip_address": "110.136.89.68",
-      "status": "pending",
+      "status": "cancel",
       "is_sent": false,
       "payment_ref_no": "QR1775212312835",
       "payment_url": "https://gmpay.zone.id/QR1775212312835",
@@ -2114,7 +2116,9 @@
         "rrn": "1n7lm2746438",
         "timestamp": "2026-04-03 17:35:13.636877",
         "email_sent": true
-      }
+      },
+      "canceled_at": "2026-04-03T15:05:04.078Z",
+      "cancel_reason": "Auto cancel - tidak dibayar dalam 10 menit"
     },
     {
       "order_id": "QR1775215390310",
@@ -2161,7 +2165,7 @@
       "lock_token": null,
       "lock_expires_at": null,
       "ip_address": "182.4.69.140",
-      "status": "pending",
+      "status": "cancel",
       "is_sent": false,
       "payment_ref_no": "QR1775227800091",
       "payment_url": "https://gmpay.zone.id/QR1775227800091",
@@ -2175,7 +2179,9 @@
         "rrn": "006040358250",
         "timestamp": "2026-04-03 21:52:40.445458",
         "email_sent": false
-      }
+      },
+      "canceled_at": "2026-04-03T15:05:04.078Z",
+      "cancel_reason": "Auto cancel - tidak dibayar dalam 10 menit"
     },
     {
       "order_id": "QR1775228562061",

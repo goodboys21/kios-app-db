@@ -2165,7 +2165,7 @@
       "lock_token": null,
       "lock_expires_at": null,
       "ip_address": "182.4.69.140",
-      "status": "cancel",
+      "status": "success",
       "is_sent": false,
       "payment_ref_no": "QR1775227800091",
       "payment_url": "https://gmpay.zone.id/QR1775227800091",

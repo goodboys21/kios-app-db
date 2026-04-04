@@ -3215,14 +3215,21 @@
       "lock_token": null,
       "lock_expires_at": null,
       "ip_address": "103.176.94.37",
-      "status": "pending",
+      "status": "success",
       "is_sent": false,
       "payment_ref_no": "QR1775289422568",
       "payment_url": "https://gmpay.zone.id/QR1775289422568",
       "qr_content": "00020101021226680016ID.PAKAIDONK.WWW01189360084500000155250215ID10264912475440303UME51390016ID.PAKAIDONK.WWW0215ID1026491247544520465335303360540446105802ID5915mustika payment6005BLORA6105583816246012126040414570333975886207094CDWELCAG0804POSP6304F46F",
       "qr_image": "https://larabert-qrgen.hf.space/v1/create-qr-code?size=500x500&style=3&color=000000&data=00020101021226680016ID.PAKAIDONK.WWW01189360084500000155250215ID10264912475440303UME51390016ID.PAKAIDONK.WWW0215ID1026491247544520465335303360540446105802ID5915mustika%20payment6005BLORA6105583816246012126040414570333975886207094CDWELCAG0804POSP6304F46F",
       "created_at": "2026-04-04T07:57:03.816Z",
-      "expired_at": "2026-04-04T08:06:59.083Z"
+      "expired_at": "2026-04-04T08:06:59.083Z",
+      "paid_at": "2026-04-04T07:57:45.502Z",
+      "payment_details": {
+        "issuer": "DANA",
+        "rrn": "1n8l94z75333",
+        "timestamp": "2026-04-04 14:57:44.110026",
+        "email_sent": true
+      }
     }
   ]
 }

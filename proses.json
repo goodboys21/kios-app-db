@@ -1,30 +1,3 @@
 {
-  "proses": [
-    {
-      "invoice": "SPY1775282064IDJW",
-      "ref_id": "GM-UKCWN3L8",
-      "contact": "yanz008yy@gmail.com",
-      "order_id": "QR1775282013111",
-      "product_name": "Alight Motion",
-      "variant_name": "1 Tahun [ Android ]",
-      "variant_id": 8,
-      "amount": 4278,
-      "seller_note": "SILAHKAN IKUTI TUTORIAL LOGIN DIBAWAH INI :\n\nhttps://youtu.be/YfT2dggAGqM?si=L6XzymPsv5D5PLMf\n\n---\nCatatan Admin:\nSILAHKAN IKUTI TUTORIAL LOGIN DIBAWAH INI :\n\nhttps://youtu.be/YfT2dggAGqM?si=L6XzymPsv5D5PLMf",
-      "created_at": "2026-04-04T05:54:27.932Z",
-      "email_notification_sent": true,
-      "api_response": {
-        "message": "OK",
-        "data": {
-          "invoice": "SPY1775282064IDJW",
-          "ref_id": "GM-UKCWN3L8",
-          "status": "paid",
-          "price": 960,
-          "fees": null,
-          "amount": 960,
-          "contact": "bagusbahril30@gmail.com",
-          "created_at": "2026-04-04T12:54:24+07:00"
-        }
-      }
-    }
-  ]
+  "proses": []
 }

@@ -3917,14 +3917,21 @@
       "lock_token": null,
       "lock_expires_at": null,
       "ip_address": "157.10.8.143",
-      "status": "pending",
+      "status": "success",
       "is_sent": false,
       "payment_ref_no": "QR1775308370800",
       "payment_url": "https://gmpay.zone.id/QR1775308370800",
       "qr_content": "00020101021226680016ID.PAKAIDONK.WWW01189360084500000155250215ID10264912475440303UME51390016ID.PAKAIDONK.WWW0215ID1026491247544520465335303360540443685802ID5915mustika payment6005BLORA6105583816246012126040420125163081925207091XU8B4GWP0804POSP6304389F",
       "qr_image": "https://larabert-qrgen.hf.space/v1/create-qr-code?size=500x500&style=3&color=000000&data=00020101021226680016ID.PAKAIDONK.WWW01189360084500000155250215ID10264912475440303UME51390016ID.PAKAIDONK.WWW0215ID1026491247544520465335303360540443685802ID5915mustika%20payment6005BLORA6105583816246012126040420125163081925207091XU8B4GWP0804POSP6304389F",
       "created_at": "2026-04-04T13:12:52.137Z",
-      "expired_at": "2026-04-04T13:22:47.370Z"
+      "expired_at": "2026-04-04T13:22:47.370Z",
+      "paid_at": "2026-04-04T13:14:17.343Z",
+      "payment_details": {
+        "issuer": "SHOPEEPAY",
+        "rrn": "AX4UEDTXF4TI",
+        "timestamp": "2026-04-04 20:14:15.593524",
+        "email_sent": true
+      }
     }
   ]
 }

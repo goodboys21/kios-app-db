@@ -4822,6 +4822,32 @@
       "expired_at": "2026-04-05T02:43:47.756Z",
       "canceled_at": "2026-04-05T02:44:03.087Z",
       "cancel_reason": "Auto cancel - tidak dibayar dalam 10 menit"
+    },
+    {
+      "order_id": "QR1775357171144",
+      "variant_id": 530,
+      "product_id": 50,
+      "product_name": "ChatGPT",
+      "variant_name": "1 Bulan Sharing",
+      "price": 10600,
+      "fee": 653,
+      "total": 11253,
+      "contact": "cifumoogiwara@gmail.com",
+      "catatan": "nak cik",
+      "seller_note": "SILAHKAN LOGIN MENGGUNAKAN AKUN YANG DIBERIKAN \n\nMINTA KODE KE BOT TELEGRAM @otpchatgpt_bot\n\nCARA LOGIN :\nMasukkan email dan password diatas\n-Tekan Try Another Method\n- Pilih Email\n- Minta OTP ke Telegram @otpchatgpt_bot\n\n---\nCatatan Admin:\nSILAHKAN LOGIN MENGGUNAKAN AKUN YANG DIBERIKAN \n\nMINTA KODE KE BOT TELEGRAM @otpchatgpt_bot\n\nCARA LOGIN :\nMasukkan email dan password diatas\n-Tekan Try Another Method\n- Pilih Email\n- Minta OTP ke Telegram @otpchatgpt_bot",
+      "description": "AKUN DARI ADMIN\n\nDURASI 28-30 HARI\nLEGAL DAN BERGARANSI\nPLAN PLUS\nSHARING ( ORANG LAIN BISA LIHAT HISTORY KAMU )\nTIDAK ADA KETENTUAN LIMIT KARENA INI SHARING\nHANYA 1 PERANGKAT , BISA PINDAH PERANGKAT!",
+      "stock_at_order": 100,
+      "lock_token": null,
+      "lock_expires_at": null,
+      "ip_address": "182.3.103.31",
+      "status": "pending",
+      "is_sent": false,
+      "payment_ref_no": "QR1775357171144",
+      "payment_url": "https://gmpay.zone.id/QR1775357171144",
+      "qr_content": "00020101021226680016ID.PAKAIDONK.WWW01189360084500000155250215ID10264912475440303UME51390016ID.PAKAIDONK.WWW0215ID10264912475445204653353033605405112535802ID5915mustika payment6005BLORA61055838162460121260405094612010681192070943J41B3YT0804POSP63046D70",
+      "qr_image": "https://larabert-qrgen.hf.space/v1/create-qr-code?size=500x500&style=3&color=000000&data=00020101021226680016ID.PAKAIDONK.WWW01189360084500000155250215ID10264912475440303UME51390016ID.PAKAIDONK.WWW0215ID10264912475445204653353033605405112535802ID5915mustika%20payment6005BLORA61055838162460121260405094612010681192070943J41B3YT0804POSP63046D70",
+      "created_at": "2026-04-05T02:46:12.575Z",
+      "expired_at": "2026-04-05T02:56:07.295Z"
     }
   ]
 }

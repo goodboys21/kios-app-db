@@ -6080,14 +6080,16 @@
       "lock_token": null,
       "lock_expires_at": null,
       "ip_address": "103.180.118.60",
-      "status": "pending",
+      "status": "cancel",
       "is_sent": false,
       "payment_ref_no": "QR1775475549616",
       "payment_url": "https://gmpay.zone.id/QR1775475549616",
       "qr_content": "00020101021226680016ID.PAKAIDONK.WWW01189360084500000155250215ID10264912475440303UME51390016ID.PAKAIDONK.WWW0215ID1026491247544520465335303360540444805802ID5915mustika payment6005BLORA61055838162460121260406183909736719052070961DJ1R8W00804POSP63045CFF",
       "qr_image": "https://larabert-qrgen.hf.space/v1/create-qr-code?size=500x500&style=3&color=000000&data=00020101021226680016ID.PAKAIDONK.WWW01189360084500000155250215ID10264912475440303UME51390016ID.PAKAIDONK.WWW0215ID1026491247544520465335303360540444805802ID5915mustika%20payment6005BLORA61055838162460121260406183909736719052070961DJ1R8W00804POSP63045CFF",
       "created_at": "2026-04-06T11:39:10.233Z",
-      "expired_at": "2026-04-06T11:49:05.989Z"
+      "expired_at": "2026-04-06T11:49:05.989Z",
+      "canceled_at": "2026-04-06T11:50:05.509Z",
+      "cancel_reason": "Auto cancel - tidak dibayar dalam 10 menit"
     },
     {
       "order_id": "QR1775475724270",

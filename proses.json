@@ -25,58 +25,6 @@
           "created_at": "2026-04-05T09:48:00+07:00"
         }
       }
-    },
-    {
-      "invoice": "SPY1775452306FEQU",
-      "ref_id": "GM-PYDLWSUF",
-      "contact": "cuancuaneuy5@gmail.com",
-      "order_id": "QR1775452247897",
-      "product_name": "Alight Motion",
-      "variant_name": "1 Tahun [ Android ]",
-      "variant_id": 8,
-      "amount": 4488,
-      "seller_note": "SILAHKAN IKUTI TUTORIAL LOGIN DIBAWAH INI :\n\nhttps://youtu.be/YfT2dggAGqM?si=L6XzymPsv5D5PLMf\n\n---\nCatatan Admin:\nSILAHKAN IKUTI TUTORIAL LOGIN DIBAWAH INI :\n\nhttps://youtu.be/YfT2dggAGqM?si=L6XzymPsv5D5PLMf",
-      "created_at": "2026-04-06T05:11:49.356Z",
-      "email_notification_sent": true,
-      "api_response": {
-        "message": "OK",
-        "data": {
-          "invoice": "SPY1775452306FEQU",
-          "ref_id": "GM-PYDLWSUF",
-          "status": "paid",
-          "price": 960,
-          "fees": null,
-          "amount": 960,
-          "contact": "bagusbahril30@gmail.com",
-          "created_at": "2026-04-06T12:11:46+07:00"
-        }
-      }
-    },
-    {
-      "invoice": "SPY1775452309BSUV",
-      "ref_id": "GM-17373LQJ",
-      "contact": "rzyray332211@gmail.com",
-      "order_id": "QR1775452275230",
-      "product_name": "Alight Motion",
-      "variant_name": "1 Tahun [ Android ]",
-      "variant_id": 8,
-      "amount": 4650,
-      "seller_note": "SILAHKAN IKUTI TUTORIAL LOGIN DIBAWAH INI :\n\nhttps://youtu.be/YfT2dggAGqM?si=L6XzymPsv5D5PLMf\n\n---\nCatatan Admin:\nSILAHKAN IKUTI TUTORIAL LOGIN DIBAWAH INI :\n\nhttps://youtu.be/YfT2dggAGqM?si=L6XzymPsv5D5PLMf",
-      "created_at": "2026-04-06T05:11:50.836Z",
-      "email_notification_sent": true,
-      "api_response": {
-        "message": "OK",
-        "data": {
-          "invoice": "SPY1775452309BSUV",
-          "ref_id": "GM-17373LQJ",
-          "status": "paid",
-          "price": 960,
-          "fees": null,
-          "amount": 960,
-          "contact": "bagusbahril30@gmail.com",
-          "created_at": "2026-04-06T12:11:49+07:00"
-        }
-      }
     }
   ]
 }

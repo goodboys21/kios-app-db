@@ -6797,14 +6797,21 @@
       "lock_token": null,
       "lock_expires_at": null,
       "ip_address": "180.248.6.115",
-      "status": "pending",
+      "status": "success",
       "is_sent": false,
       "payment_ref_no": "QR1775980713513",
       "payment_url": "https://gmpay.zone.id/QR1775980713513",
       "qr_content": "00020101021226680016ID.PAKAIDONK.WWW01189360084500000215170215ID10265016455130303UME51390016ID.PAKAIDONK.WWW0215ID1026501645513520460125303360540446685802ID5912Good Payment6006SLEMAN6105552866246012126041214583365724973207091TSCCNSBP0804POSP6304464D",
       "qr_image": "https://larabert-qrgen.hf.space/v1/create-qr-code?size=500x500&style=3&color=000000&data=00020101021226680016ID.PAKAIDONK.WWW01189360084500000215170215ID10265016455130303UME51390016ID.PAKAIDONK.WWW0215ID1026501645513520460125303360540446685802ID5912Good%20Payment6006SLEMAN6105552866246012126041214583365724973207091TSCCNSBP0804POSP6304464D",
       "created_at": "2026-04-12T07:58:34.169Z",
-      "expired_at": "2026-04-12T08:08:28.834Z"
+      "expired_at": "2026-04-12T08:08:28.834Z",
+      "paid_at": "2026-04-12T07:59:51.593Z",
+      "payment_details": {
+        "issuer": "GOPAY",
+        "rrn": "001115322256",
+        "timestamp": "2026-04-12 14:59:50.098762",
+        "email_sent": true
+      }
     }
   ]
 }

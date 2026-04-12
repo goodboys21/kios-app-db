@@ -7211,6 +7211,32 @@
         "timestamp": "2026-04-12 20:25:14.294955",
         "email_sent": true
       }
+    },
+    {
+      "order_id": "QR1776000644855",
+      "variant_id": 62,
+      "product_id": 22,
+      "product_name": "WeTV",
+      "variant_name": "Sharing 6 User",
+      "price": 7750,
+      "fee": 656,
+      "total": 8406,
+      "contact": "saamsung527278@gmail.com",
+      "catatan": "Pembelian paket Sharing 6 User",
+      "seller_note": "LOGIN MENGGUNAKAN AKUN YANG DIBERIKAN YA !\n\nDILARANG OTAK ATIK AKUN,PEMBAYARAN DLL\nTINGGAL PAKAI SAJA !\n\n---\nCatatan Admin:\nLOGIN MENGGUNAKAN AKUN YANG DIBERIKAN YA !\n\nDILARANG OTAK ATIK AKUN,PEMBAYARAN DLL\nTINGGAL PAKAI SAJA !",
+      "description": "AKUN DARI ADMIN\n\nDI SHARING 6 USER\nJIKA TERJADI LIMIT, NONTON BERGANTIAN !",
+      "stock_at_order": 2,
+      "lock_token": "LCK-083e4254-70b5-4fbb-bc8d-3c8aff169db0",
+      "lock_expires_at": "2026-04-12T20:40:42+07:00",
+      "ip_address": "182.9.33.9",
+      "status": "pending",
+      "is_sent": false,
+      "payment_ref_no": "QR1776000644855",
+      "payment_url": "https://gmpay.zone.id/QR1776000644855",
+      "qr_content": "00020101021226680016ID.PAKAIDONK.WWW01189360084500000215170215ID10265016455130303UME51390016ID.PAKAIDONK.WWW0215ID1026501645513520460125303360540484065802ID5912Good Payment6006SLEMAN61055528662460121260412203044978387302070945Y7KK7ML0804POSP630456B5",
+      "qr_image": "https://larabert-qrgen.hf.space/v1/create-qr-code?size=500x500&style=3&color=000000&data=00020101021226680016ID.PAKAIDONK.WWW01189360084500000215170215ID10265016455130303UME51390016ID.PAKAIDONK.WWW0215ID1026501645513520460125303360540484065802ID5912Good%20Payment6006SLEMAN61055528662460121260412203044978387302070945Y7KK7ML0804POSP630456B5",
+      "created_at": "2026-04-12T13:30:45.610Z",
+      "expired_at": "2026-04-12T13:40:38.909Z"
     }
   ]
 }

@@ -6967,6 +6967,32 @@
         "timestamp": "2026-04-12 18:05:57.727430",
         "email_sent": true
       }
+    },
+    {
+      "order_id": "QR1775992570349",
+      "variant_id": 5575,
+      "product_id": 10,
+      "product_name": "Gemini Ai",
+      "variant_name": "1 Bulan Private",
+      "price": 17250,
+      "fee": 476,
+      "total": 17726,
+      "contact": "yt5056926@gmail.com",
+      "catatan": "Pembelian paket 1 Bulan Private",
+      "seller_note": "Langsung amankan akun, ganti password, tambahkan email pemulihan dan nomor pemulihannya ya!\n\n---\nCatatan Admin:\nLangsung amankan akun, ganti password, tambahkan email pemulihan dan nomor pemulihannya ya!",
+      "description": "AKUN DARI ADMIN\n\nLEGAL DAN BERGARANSI\nDURASI 30 HARI",
+      "stock_at_order": 1,
+      "lock_token": "LCK-b02de790-58cc-4190-8eaa-24a649e7ea39",
+      "lock_expires_at": "2026-04-12T18:26:06+07:00",
+      "ip_address": "140.213.44.28",
+      "status": "pending",
+      "is_sent": false,
+      "payment_ref_no": "QR1775992570349",
+      "payment_url": "https://gmpay.zone.id/QR1775992570349",
+      "qr_content": "00020101021226680016ID.PAKAIDONK.WWW01189360084500000215170215ID10265016455130303UME51390016ID.PAKAIDONK.WWW0215ID10265016455135204601253033605405177265802ID5912Good Payment6006SLEMAN6105552866246012126041218161049235444207095MDP9PPFS0804POSP6304DBC2",
+      "qr_image": "https://larabert-qrgen.hf.space/v1/create-qr-code?size=500x500&style=3&color=000000&data=00020101021226680016ID.PAKAIDONK.WWW01189360084500000215170215ID10265016455130303UME51390016ID.PAKAIDONK.WWW0215ID10265016455135204601253033605405177265802ID5912Good%20Payment6006SLEMAN6105552866246012126041218161049235444207095MDP9PPFS0804POSP6304DBC2",
+      "created_at": "2026-04-12T11:16:11.021Z",
+      "expired_at": "2026-04-12T11:26:02.965Z"
     }
   ]
 }

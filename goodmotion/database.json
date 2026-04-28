@@ -1328,13 +1328,22 @@
       "fee": 774,
       "total": 4274,
       "ip_address": "103.165.155.30",
-      "status": "pending",
+      "status": "success",
       "payment_ref_no": "QR1777344859259",
       "payment_url": "https://mustikapayment.com/pay/QR1777344859259",
       "qr_content": "00020101021226680016ID.PAKAIDONK.WWW01189360084500000215170215ID10265016455130303UME51390016ID.PAKAIDONK.WWW0215ID1026501645513520460125303360540442745802ID5912Good Payment6006SLEMAN6105552866246012126042809541941050869207091OLG3GQSL0804POSP63044B3A",
       "qr_image": "https://larabert-qrgen.hf.space/v1/create-qr-code?size=500x500&style=3&color=000000&data=00020101021226680016ID.PAKAIDONK.WWW01189360084500000215170215ID10265016455130303UME51390016ID.PAKAIDONK.WWW0215ID1026501645513520460125303360540442745802ID5912Good%20Payment6006SLEMAN6105552866246012126042809541941050869207091OLG3GQSL0804POSP63044B3A",
       "created_at": "2026-04-28T02:54:19.845Z",
-      "expired_at": "2026-04-29T02:54:16.859Z"
+      "expired_at": "2026-04-29T02:54:16.859Z",
+      "paid_at": "2026-04-28T02:55:16.835Z",
+      "email_sent": true,
+      "payment_method": "QRIS",
+      "payment_timestamp": "2026-04-28 09:55:13.701956",
+      "raw_payload": {
+        "amount": 4274,
+        "ref_no": "QR1777344859259",
+        "status": "success"
+      }
     }
   ]
 }

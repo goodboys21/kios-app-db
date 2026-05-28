@@ -1,13 +1,3 @@
 {
-  "pending_orders": [
-    {
-      "order_id": "QR1779930273549",
-      "email": "rusmawatisusanti2006@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4073,
-      "created_at": "2026-05-28T01:04:37.379Z",
-      "expired_at": "2026-05-28T02:04:31.733Z",
-      "payment_ref_no": "QR1779930273549"
-    }
-  ]
+  "pending_orders": []
 }

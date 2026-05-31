@@ -16905,12 +16905,21 @@
       "fee": 815,
       "total": 4315,
       "ip_address": "103.134.245.21",
-      "status": "pending",
+      "status": "success",
       "payment_ref_no": "QR1780238776541",
       "payment_url": "https://mustikapayment.com/pay/QR1780238776541",
       "qr_image": "https://larabert-qrgen.hf.space/v1/create-qr-code?size=500x500&style=3&color=000000&data=undefined",
       "created_at": "2026-05-31T14:46:17.218Z",
-      "expired_at": "2026-05-31T15:46:15.500Z"
+      "expired_at": "2026-05-31T15:46:15.500Z",
+      "paid_at": "2026-05-31T14:52:49.458Z",
+      "email_sent": true,
+      "payment_method": "QRIS",
+      "payment_timestamp": "2026-05-31 21:52:46.252603",
+      "raw_payload": {
+        "amount": 4315,
+        "ref_no": "QR1780238776541",
+        "status": "success"
+      }
     }
   ]
 }

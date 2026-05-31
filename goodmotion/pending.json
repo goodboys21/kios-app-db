@@ -1,13 +1,3 @@
 {
-  "pending_orders": [
-    {
-      "order_id": "QR1780254931090",
-      "email": "htt@ff.b",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4320,
-      "created_at": "2026-05-31T19:15:32.769Z",
-      "expired_at": "2026-05-31T20:15:26.090Z",
-      "payment_ref_no": "QR1780254931090"
-    }
-  ]
+  "pending_orders": []
 }

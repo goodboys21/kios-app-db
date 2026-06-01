@@ -17424,21 +17424,6 @@
         "ref_no": "QR1780323493290",
         "status": "success"
       }
-    },
-    {
-      "order_id": "QR1780331255763",
-      "email": "ahmadmustopa797@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "price": 3500,
-      "fee": 755,
-      "total": 4255,
-      "ip_address": "103.125.17.23",
-      "status": "pending",
-      "payment_ref_no": "QR1780331255763",
-      "payment_url": "https://mustikapayment.com/pay/QR1780331255763",
-      "qr_image": "https://larabert-qrgen.hf.space/v1/create-qr-code?size=500x500&style=3&color=000000&data=undefined",
-      "created_at": "2026-06-01T16:27:36.439Z",
-      "expired_at": "2026-06-01T17:27:32.584Z"
     }
   ]
 }

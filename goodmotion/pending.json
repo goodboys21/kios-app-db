@@ -1,16 +1,6 @@
 {
   "pending_orders": [
     {
-      "order_id": "QR1780641900854",
-      "email": "awansafwan007@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4254,
-      "created_at": "2026-06-05T06:45:02.771Z",
-      "expired_at": "2026-06-05T07:44:59.172Z",
-      "payment_ref_no": "QR1780641900854",
-      "qr_url": "https://mustikapayment.com/api/qr?data=00020101021226680016ID.PAKAIDONK.WWW01189360084500000215170215ID10265016455130303UME51390016ID.PAKAIDONK.WWW0215ID1026501645513520460125303360540442545802ID5912Good%20Payment6006SLEMAN610555286624601212606051345009884193720709615D6VV5X0804POSP6304FB66&ref_no=QR1780641900854&username=GOOD-MRKT"
-    },
-    {
       "order_id": "QR1780644365719",
       "email": "dimaslukis2122@gmail.com",
       "product_name": "Alight Motion [1 Tahun]",

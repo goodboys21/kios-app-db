@@ -5124,13 +5124,26 @@
       "fee": 1101,
       "total": 4601,
       "ip_address": "103.122.66.155",
-      "status": "pending",
+      "status": "success",
       "payment_ref_no": "QR1782068300424",
       "payment_url": "https://mustikapayment.com/pay/QR1782068300424",
       "qr_url": "https://mustikapayment.com/api/qr?data=00020101021226680016ID.PAKAIDONK.WWW01189360084500000215170215ID10265016455130303UME51390016ID.PAKAIDONK.WWW0215ID1026501645513520460125303360540446015802ID5912Good%20Payment6006SLEMAN61055528662460121260622015820584468102070947095CQQU0804POSP6304DD74&ref_no=QR1782068300424&username=GOOD-MRKT",
       "qr_image": "https://mustikapayment.com/api/qr?data=00020101021226680016ID.PAKAIDONK.WWW01189360084500000215170215ID10265016455130303UME51390016ID.PAKAIDONK.WWW0215ID1026501645513520460125303360540446015802ID5912Good%20Payment6006SLEMAN61055528662460121260622015820584468102070947095CQQU0804POSP6304DD74&ref_no=QR1782068300424&username=GOOD-MRKT",
       "created_at": "2026-06-21T18:58:21.040Z",
-      "expired_at": "2026-06-21T19:58:17.331Z"
+      "expired_at": "2026-06-21T19:58:17.331Z",
+      "paid_at": "2026-06-21T18:59:21.686Z",
+      "email_sent": true,
+      "delivered_account": {
+        "email": "gmu3goh4cu16@goodmail.my.id",
+        "link_login": "gmu3goh4cu16"
+      },
+      "payment_method": "QRIS",
+      "payment_timestamp": "2026-06-22 01:59:03.603426",
+      "raw_payload": {
+        "amount": 4601,
+        "ref_no": "QR1782068300424",
+        "status": "success"
+      }
     }
   ]
 }

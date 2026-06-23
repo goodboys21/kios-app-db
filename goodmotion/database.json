@@ -7408,6 +7408,22 @@
       "qr_image": "https://gateway.okeconnect.com/edcqris/20260623/2715307-62661a0dcbd3743c5ac1f3bd8ca8d05b3c952110-4026855-4252.png",
       "created_at": "2026-06-23T09:30:01.497Z",
       "expired_at": "2026-06-23T09:34:56.833Z"
+    },
+    {
+      "order_id": "4026894",
+      "email": "kyyjawa23@gmail.com",
+      "product_name": "Alight Motion [1 Tahun]",
+      "price": 3500,
+      "fee": 744,
+      "total": 4244,
+      "ip_address": "103.142.255.124",
+      "status": "pending",
+      "payment_ref_no": "4026894",
+      "payment_url": "https://www.goodpay.zone.id/invoice/4026894",
+      "qr_url": "https://gateway.okeconnect.com/edcqris/20260623/2715307-62661a0dcbd3743c5ac1f3bd8ca8d05b3c952110-4026894-4244.png",
+      "qr_image": "https://gateway.okeconnect.com/edcqris/20260623/2715307-62661a0dcbd3743c5ac1f3bd8ca8d05b3c952110-4026894-4244.png",
+      "created_at": "2026-06-23T09:39:11.215Z",
+      "expired_at": "2026-06-23T09:44:06.898Z"
     }
   ]
 }

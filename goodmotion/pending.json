@@ -6189,16 +6189,6 @@
       "expired_at": "2026-06-23T23:09:01.959Z",
       "payment_ref_no": "4028625",
       "qr_url": "https://gateway.okeconnect.com/edcqris/20260623/2715307-62661a0dcbd3743c5ac1f3bd8ca8d05b3c952110-4028625-4653.png"
-    },
-    {
-      "order_id": "QR1782271249859",
-      "email": "zyro32695@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4391,
-      "created_at": "2026-06-24T03:20:51.422Z",
-      "expired_at": "2026-06-24T04:20:46.577Z",
-      "payment_ref_no": "QR1782271249859",
-      "qr_url": "https://mustikapayment.com/api/qr?data=00020101021226680016ID.PAKAIDONK.WWW01189360084500000215170215ID10265016455130303UME51390016ID.PAKAIDONK.WWW0215ID1026501645513520460125303360540443915802ID5912Good%20Payment6006SLEMAN6105552866246012126062410205001422440207091QFLWD7SJ0804POSP63046F95&ref_no=QR1782271249859&username=GOOD-MRKT"
     }
   ]
 }

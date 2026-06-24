@@ -8077,13 +8077,25 @@
       "fee": 619,
       "total": 4119,
       "ip_address": "118.99.80.6",
-      "status": "pending",
+      "status": "success",
       "payment_ref_no": "4028750",
       "payment_url": "https://www.goodpay.zone.id/invoice/4028750",
       "qr_url": "https://gateway.okeconnect.com/edcqris/20260624/2715307-62661a0dcbd3743c5ac1f3bd8ca8d05b3c952110-4028750-4119.png",
       "qr_image": "https://gateway.okeconnect.com/edcqris/20260624/2715307-62661a0dcbd3743c5ac1f3bd8ca8d05b3c952110-4028750-4119.png",
       "created_at": "2026-06-24T00:53:14.935Z",
-      "expired_at": "2026-06-24T00:58:10.333Z"
+      "expired_at": "2026-06-24T00:58:10.333Z",
+      "paid_at": "2026-06-24T00:56:14.024Z",
+      "email_sent": true,
+      "delivered_account": {
+        "email": "gmczksvrylwy@goodmail.my.id",
+        "link_login": "gmczksvrylwy"
+      },
+      "payment_method": "QRIS",
+      "raw_payload": {
+        "id": 4028750,
+        "amount": 4119,
+        "status": "success"
+      }
     }
   ]
 }

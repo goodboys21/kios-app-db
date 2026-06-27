@@ -6,11 +6,23 @@
   "fee": 640,
   "total": 4140,
   "ip_address": "112.215.168.87",
-  "status": "pending",
+  "status": "success",
   "payment_ref_no": "1048675",
   "payment_url": "https://www.goodpay.zone.id/invoice/1048675",
   "qr_url": "https://sp39586.serpul.co.id/storage/image/qris/qris_17825397171048675.png",
   "qr_image": "https://sp39586.serpul.co.id/storage/image/qris/qris_17825397171048675.png",
   "created_at": "2026-06-27T05:55:19.232Z",
-  "expired_at": "2026-06-27T06:00:14.495Z"
+  "expired_at": "2026-06-27T06:00:14.495Z",
+  "paid_at": "2026-06-27T05:56:47.167Z",
+  "email_sent": true,
+  "delivered_account": {
+    "email": "gmvk36mh2oqx@goodmail.my.id",
+    "link_login": "gmvk36mh2oqx"
+  },
+  "payment_method": "QRIS",
+  "raw_payload": {
+    "id": 1048675,
+    "amount": 4140,
+    "status": "success"
+  }
 }

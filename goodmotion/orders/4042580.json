@@ -6,11 +6,23 @@
   "fee": 595,
   "total": 4095,
   "ip_address": "114.10.143.39",
-  "status": "pending",
+  "status": "success",
   "payment_ref_no": "4042580",
   "payment_url": "https://www.goodpay.zone.id/invoice/4042580",
   "qr_url": "https://gateway.okeconnect.com/edcqris/20260628/2715307-62661a0dcbd3743c5ac1f3bd8ca8d05b3c952110-4042580-4095.png",
   "qr_image": "https://gateway.okeconnect.com/edcqris/20260628/2715307-62661a0dcbd3743c5ac1f3bd8ca8d05b3c952110-4042580-4095.png",
   "created_at": "2026-06-28T12:01:23.525Z",
-  "expired_at": "2026-06-28T12:06:19.476Z"
+  "expired_at": "2026-06-28T12:06:19.476Z",
+  "paid_at": "2026-06-28T12:03:00.556Z",
+  "email_sent": true,
+  "delivered_account": {
+    "email": "gmbs3jngjqii@goodmail.my.id",
+    "link_login": "gmbs3jngjqii"
+  },
+  "payment_method": "QRIS",
+  "raw_payload": {
+    "id": 4042580,
+    "amount": 4095,
+    "status": "success"
+  }
 }

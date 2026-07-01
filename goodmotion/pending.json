@@ -8539,16 +8539,6 @@
       "expired_at": "2026-07-01T02:16:44.836Z",
       "payment_ref_no": "4049764",
       "qr_url": "https://gateway.okeconnect.com/edcqris/20260701/2715307-62661a0dcbd3743c5ac1f3bd8ca8d05b3c952110-4049764-4303.png"
-    },
-    {
-      "order_id": "4049777",
-      "email": "gaplex0312@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4986,
-      "created_at": "2026-07-01T02:21:19.244Z",
-      "expired_at": "2026-07-01T02:26:14.031Z",
-      "payment_ref_no": "4049777",
-      "qr_url": "https://gateway.okeconnect.com/edcqris/20260701/2715307-62661a0dcbd3743c5ac1f3bd8ca8d05b3c952110-4049777-4986.png"
     }
   ]
 }

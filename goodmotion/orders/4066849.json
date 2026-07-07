@@ -6,11 +6,23 @@
   "fee": 1419,
   "total": 4919,
   "ip_address": "182.8.66.16",
-  "status": "pending",
+  "status": "success",
   "payment_ref_no": "4066849",
   "payment_url": "https://www.goodpay.zone.id/invoice/4066849",
   "qr_url": "https://gateway.okeconnect.com/edcqris/20260707/2715307-62661a0dcbd3743c5ac1f3bd8ca8d05b3c952110-4066849-4919.png",
   "qr_image": "https://gateway.okeconnect.com/edcqris/20260707/2715307-62661a0dcbd3743c5ac1f3bd8ca8d05b3c952110-4066849-4919.png",
   "created_at": "2026-07-07T09:04:13.530Z",
-  "expired_at": "2026-07-07T09:09:08.087Z"
+  "expired_at": "2026-07-07T09:09:08.087Z",
+  "paid_at": "2026-07-07T09:06:55.430Z",
+  "email_sent": true,
+  "delivered_account": {
+    "email": "gmbeoxaoblio@goodmail.my.id",
+    "link_login": "gmbeoxaoblio"
+  },
+  "payment_method": "QRIS",
+  "raw_payload": {
+    "id": 4066849,
+    "amount": 4919,
+    "status": "success"
+  }
 }

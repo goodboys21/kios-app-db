@@ -1,16 +1,6 @@
 {
   "pending_orders": [
     {
-      "order_id": "4084372",
-      "email": "mpruyxanml@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4721,
-      "created_at": "2026-07-14T07:10:27.452Z",
-      "expired_at": "2026-07-14T07:15:22.366Z",
-      "payment_ref_no": "4084372",
-      "qr_url": "https://gateway.okeconnect.com/edcqris/20260714/2715307-62661a0dcbd3743c5ac1f3bd8ca8d05b3c952110-4084372-4721.png"
-    },
-    {
       "order_id": "4084389",
       "email": "wigiphones@gmail.com",
       "product_name": "Alight Motion [1 Tahun]",

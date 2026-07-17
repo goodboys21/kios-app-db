@@ -6,11 +6,23 @@
   "fee": 1158,
   "total": 4658,
   "ip_address": "114.122.39.195",
-  "status": "pending",
+  "status": "success",
   "payment_ref_no": "1087185",
   "payment_url": "https://www.goodmotion.id/invoice/1087185",
   "qr_url": "https://sp39586.serpul.co.id/storage/image/qris/qris_17843102441087185.png",
   "qr_image": "https://sp39586.serpul.co.id/storage/image/qris/qris_17843102441087185.png",
   "created_at": "2026-07-17T17:44:06.572Z",
-  "expired_at": "2026-07-17T17:49:00.062Z"
+  "expired_at": "2026-07-17T17:49:00.062Z",
+  "paid_at": "2026-07-17T17:48:27.509Z",
+  "email_sent": true,
+  "delivered_account": {
+    "old_stock_email": "gm-r0qqa9b@goodmail.my.id",
+    "status": "PREMIUM ACTIVE"
+  },
+  "payment_method": "QRIS",
+  "raw_payload": {
+    "id": 1087185,
+    "amount": 4658,
+    "status": "success"
+  }
 }

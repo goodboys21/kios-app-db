@@ -9,16 +9,6 @@
       "expired_at": "2026-07-20T12:30:40.170Z",
       "payment_ref_no": "4100709",
       "qr_url": "https://gateway.okeconnect.com/edcqris/20260720/2715307-62661a0dcbd3743c5ac1f3bd8ca8d05b3c952110-4100709-4371.png"
-    },
-    {
-      "order_id": "4100711",
-      "email": "nazli150812@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4476,
-      "created_at": "2026-07-20T12:25:56.413Z",
-      "expired_at": "2026-07-20T12:30:50.554Z",
-      "payment_ref_no": "4100711",
-      "qr_url": "https://gateway.okeconnect.com/edcqris/20260720/2715307-62661a0dcbd3743c5ac1f3bd8ca8d05b3c952110-4100711-4476.png"
     }
   ]
 }

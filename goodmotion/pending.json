@@ -1,16 +1,6 @@
 {
   "pending_orders": [
     {
-      "order_id": "4148509",
-      "email": "raviolaavc@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4186,
-      "created_at": "2026-08-07T16:40:18.103Z",
-      "expired_at": "2026-08-07T16:45:14.260Z",
-      "payment_ref_no": "4148509",
-      "qr_url": "https://gateway.okeconnect.com/edcqris/20260807/2715307-62661a0dcbd3743c5ac1f3bd8ca8d05b3c952110-4148509-4186.png"
-    },
-    {
       "order_id": "4148512",
       "email": "afikasellania@gmail.com",
       "product_name": "Alight Motion [1 Tahun]",

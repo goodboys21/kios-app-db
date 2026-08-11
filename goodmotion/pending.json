@@ -1,16 +1,6 @@
 {
   "pending_orders": [
     {
-      "order_id": "4159383",
-      "email": "masyunus630@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4538,
-      "created_at": "2026-08-11T16:57:39.511Z",
-      "expired_at": "2026-08-11T17:02:34.258Z",
-      "payment_ref_no": "4159383",
-      "qr_url": "https://app.orderkuota.com/assets/edc/close.png"
-    },
-    {
       "order_id": "1110124",
       "email": "masyunus630@gmail.com",
       "product_name": "Alight Motion [1 Tahun]",

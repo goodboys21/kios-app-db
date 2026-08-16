@@ -6,11 +6,23 @@
   "fee": 1396,
   "total": 4896,
   "ip_address": "179.65.193.110",
-  "status": "pending",
+  "status": "success",
   "payment_ref_no": "4169960",
   "payment_url": "https://www.goodmotion.id/invoice/4169960",
   "qr_url": "https://gateway.okeconnect.com/edcqris/20260816/2715307-62661a0dcbd3743c5ac1f3bd8ca8d05b3c952110-4169960-4896.png",
   "qr_image": "https://gateway.okeconnect.com/edcqris/20260816/2715307-62661a0dcbd3743c5ac1f3bd8ca8d05b3c952110-4169960-4896.png",
   "created_at": "2026-08-16T00:39:21.207Z",
-  "expired_at": "2026-08-16T00:44:18.117Z"
+  "expired_at": "2026-08-16T00:44:18.117Z",
+  "paid_at": "2026-08-16T00:40:11.643Z",
+  "email_sent": true,
+  "delivered_account": {
+    "old_stock_email": "gm-99evn8113jja@akunlama.com",
+    "status": "PREMIUM ACTIVE"
+  },
+  "payment_method": "QRIS",
+  "raw_payload": {
+    "id": 4169960,
+    "amount": 4896,
+    "status": "success"
+  }
 }

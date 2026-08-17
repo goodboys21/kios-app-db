@@ -6,11 +6,23 @@
   "fee": 952,
   "total": 4452,
   "ip_address": "36.65.98.224",
-  "status": "processing",
+  "status": "success",
   "payment_ref_no": "2119252",
   "payment_url": "https://www.goodmotion.id/invoice/2119252",
   "qr_url": "https://www.gobox.my.id/file/qqhluHQL1nWf.png",
   "qr_image": "https://www.gobox.my.id/file/qqhluHQL1nWf.png",
   "created_at": "2026-08-17T00:58:13.890Z",
-  "expired_at": "2026-08-17T01:03:05.799Z"
+  "expired_at": "2026-08-17T01:03:05.799Z",
+  "paid_at": "2026-08-17T01:00:40.376Z",
+  "email_sent": true,
+  "delivered_account": {
+    "old_stock_email": "gm-9b24bsfhh3dj@akunlama.com",
+    "status": "PREMIUM ACTIVE"
+  },
+  "payment_method": "QRIS",
+  "raw_payload": {
+    "id": 2119252,
+    "amount": 4452,
+    "status": "success"
+  }
 }

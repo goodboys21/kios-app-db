@@ -1,16 +1,6 @@
 {
   "pending_orders": [
     {
-      "order_id": "2121537",
-      "email": "alifhafizhsharkan777@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4502,
-      "created_at": "2026-08-18T12:37:39.285Z",
-      "expired_at": "2026-08-18T12:42:31.011Z",
-      "payment_ref_no": "2121537",
-      "qr_url": "https://www.gobox.my.id/file/12PBT5CRp8xN.png"
-    },
-    {
       "order_id": "2121544",
       "email": "izzam1750@gmail.com",
       "product_name": "Alight Motion [1 Tahun]",

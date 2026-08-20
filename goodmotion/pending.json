@@ -1,14 +1,3 @@
 {
-  "pending_orders": [
-    {
-      "order_id": "2123529",
-      "email": "daniswaraprdity@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4472,
-      "created_at": "2026-08-20T10:07:43.624Z",
-      "expired_at": "2026-08-20T10:12:35.217Z",
-      "payment_ref_no": "2123529",
-      "qr_url": "https://www.gobox.my.id/file/RTJCaq7Mt4aD.png"
-    }
-  ]
+  "pending_orders": []
 }

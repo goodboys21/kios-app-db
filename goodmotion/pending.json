@@ -1,14 +1,3 @@
 {
-  "pending_orders": [
-    {
-      "order_id": "15072",
-      "email": "ubay2014bjm@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4483,
-      "created_at": "2026-08-24T22:59:55.748Z",
-      "expired_at": "2026-08-24T23:04:49.366Z",
-      "payment_ref_no": "15072",
-      "qr_url": "https://sp40712.serpul.co.id/storage/image/qris/qris_178761239215072.png"
-    }
-  ]
+  "pending_orders": []
 }

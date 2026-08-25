@@ -6,11 +6,24 @@
   "fee": 561,
   "total": 4061,
   "ip_address": "103.169.21.238",
-  "status": "processing",
+  "status": "success",
   "payment_ref_no": "GM38672492",
   "payment_url": "https://www.goodmotion.id/invoice/GM38672492",
   "qr_url": "https://www.gobox.my.id/file/RLXy17ZXoB11.png",
   "qr_image": "https://www.gobox.my.id/file/RLXy17ZXoB11.png",
   "created_at": "2026-08-25T02:03:15.422Z",
-  "expired_at": "2026-08-25T02:08:05.003Z"
+  "expired_at": "2026-08-25T02:08:05.003Z",
+  "paid_at": "2026-08-25T02:04:23.820Z",
+  "email_sent": true,
+  "delivered_account": {
+    "old_stock_email": "gm-m97gd1@akunlama.com",
+    "status": "PREMIUM ACTIVE"
+  },
+  "payment_method": "QRIS",
+  "verified_by": "Winpay Biz",
+  "raw_payload": {
+    "id": "GM38672492",
+    "amount": 4061,
+    "status": "success"
+  }
 }

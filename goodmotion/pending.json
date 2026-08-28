@@ -1,14 +1,3 @@
 {
-  "pending_orders": [
-    {
-      "order_id": "GM74516221",
-      "email": "veritylonely@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4020,
-      "created_at": "2026-08-28T16:49:16.625Z",
-      "expired_at": "2026-08-28T16:54:01.884Z",
-      "payment_ref_no": "GM74516221",
-      "qr_url": "https://www.gobox.my.id/file/1hFFgrl84gyf.png"
-    }
-  ]
+  "pending_orders": []
 }

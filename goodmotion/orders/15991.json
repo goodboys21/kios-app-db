@@ -6,11 +6,24 @@
   "fee": 591,
   "total": 4091,
   "ip_address": "38.183.146.99",
-  "status": "processing",
+  "status": "success",
   "payment_ref_no": "15991",
   "payment_url": "https://www.goodmotion.id/invoice/15991",
   "qr_url": "https://sp40712.serpul.co.id/storage/image/qris/qris_178790492215991.png",
   "qr_image": "https://sp40712.serpul.co.id/storage/image/qris/qris_178790492215991.png",
   "created_at": "2026-08-28T08:15:24.360Z",
-  "expired_at": "2026-08-28T08:20:19.236Z"
+  "expired_at": "2026-08-28T08:20:19.236Z",
+  "paid_at": "2026-08-28T08:18:24.894Z",
+  "email_sent": true,
+  "delivered_account": {
+    "old_stock_email": "ibrasya-jrpaggk@akunlama.com",
+    "status": "PREMIUM ACTIVE"
+  },
+  "payment_method": "QRIS",
+  "verified_by": "Serpul SP40712",
+  "raw_payload": {
+    "id": 15991,
+    "amount": 4091,
+    "status": "success"
+  }
 }

@@ -1,14 +1,3 @@
 {
-  "pending_orders": [
-    {
-      "order_id": "16720",
-      "email": "pritamineysa@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4026,
-      "created_at": "2026-08-30T10:40:21.911Z",
-      "expired_at": "2026-08-30T10:45:16.037Z",
-      "payment_ref_no": "16720",
-      "qr_url": "https://sp40712.serpul.co.id/storage/image/qris/qris_178808641916720.png"
-    }
-  ]
+  "pending_orders": []
 }

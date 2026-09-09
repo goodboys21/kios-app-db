@@ -1,16 +1,6 @@
 {
   "pending_orders": [
     {
-      "order_id": "18924",
-      "email": "mohammadbaburrizki5@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4970,
-      "created_at": "2026-09-09T02:18:39.510Z",
-      "expired_at": "2026-09-09T02:23:34.103Z",
-      "payment_ref_no": "18924",
-      "qr_url": "https://sp40712.serpul.co.id/storage/image/qris/qris_178892031618924.png"
-    },
-    {
       "order_id": "18926",
       "email": "y84448260@gmail.com",
       "product_name": "Alight Motion [1 Tahun]",

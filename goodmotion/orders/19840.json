@@ -6,11 +6,24 @@
   "fee": 1013,
   "total": 4513,
   "ip_address": "114.125.170.213",
-  "status": "processing",
+  "status": "success",
   "payment_ref_no": "19840",
   "payment_url": "https://www.goodmotion.id/invoice/19840",
   "qr_url": "https://sp40712.serpul.co.id/storage/image/qris/qris_178903807319840.png",
   "qr_image": "https://sp40712.serpul.co.id/storage/image/qris/qris_178903807319840.png",
   "created_at": "2026-09-10T11:01:16.510Z",
-  "expired_at": "2026-09-10T11:06:08.171Z"
+  "expired_at": "2026-09-10T11:06:08.171Z",
+  "paid_at": "2026-09-10T11:03:54.024Z",
+  "email_sent": true,
+  "delivered_account": {
+    "old_stock_email": "ibrasya21109-3atomed@akunlama.com",
+    "status": "PREMIUM ACTIVE"
+  },
+  "payment_method": "QRIS",
+  "verified_by": "Serpul SP40712",
+  "raw_payload": {
+    "id": 19840,
+    "amount": 4513,
+    "status": "success"
+  }
 }

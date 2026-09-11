@@ -6,11 +6,24 @@
   "fee": 1003,
   "total": 4503,
   "ip_address": "182.2.204.184",
-  "status": "processing",
+  "status": "success",
   "payment_ref_no": "GM68810837",
   "payment_url": "https://www.goodmotion.id/invoice/GM68810837",
   "qr_url": "https://www.gobox.my.id/file/XVyBbUFbu2IK.png",
   "qr_image": "https://www.gobox.my.id/file/XVyBbUFbu2IK.png",
   "created_at": "2026-09-11T05:14:57.019Z",
-  "expired_at": "2026-09-11T05:19:44.568Z"
+  "expired_at": "2026-09-11T05:19:44.568Z",
+  "paid_at": "2026-09-11T05:16:28.210Z",
+  "email_sent": true,
+  "delivered_account": {
+    "old_stock_email": "ibrasya211099-vvghy18@akunlama.com",
+    "status": "PREMIUM ACTIVE"
+  },
+  "payment_method": "QRIS",
+  "verified_by": "Winpay Biz",
+  "raw_payload": {
+    "id": "GM68810837",
+    "amount": 4503,
+    "status": "success"
+  }
 }

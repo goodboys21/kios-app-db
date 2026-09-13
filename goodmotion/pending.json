@@ -1,24 +1,3 @@
 {
-  "pending_orders": [
-    {
-      "order_id": "GM52090140",
-      "email": "azzrilfathan@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4267,
-      "created_at": "2026-09-13T03:02:11.098Z",
-      "expired_at": "2026-09-13T03:06:58.626Z",
-      "payment_ref_no": "GM52090140",
-      "qr_url": "https://www.gobox.my.id/file/CmxAVHxOjydG.png"
-    },
-    {
-      "order_id": "GM53817098",
-      "email": "azzrilfathan@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4966,
-      "created_at": "2026-09-13T03:02:26.911Z",
-      "expired_at": "2026-09-13T03:07:16.345Z",
-      "payment_ref_no": "GM53817098",
-      "qr_url": "https://www.gobox.my.id/file/juuOMzziu5ID.png"
-    }
-  ]
+  "pending_orders": []
 }

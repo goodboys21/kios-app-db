@@ -1,26 +1,6 @@
 {
   "pending_orders": [
     {
-      "order_id": "25524",
-      "email": "yudyspeed5@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4270,
-      "created_at": "2026-09-25T13:45:56.432Z",
-      "expired_at": "2026-09-25T13:50:50.461Z",
-      "payment_ref_no": "25524",
-      "qr_url": "https://sp40712.serpul.co.id/storage/image/qris/qris_179034395325524.png"
-    },
-    {
-      "order_id": "GM97130678",
-      "email": "yudyspeed5@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4579,
-      "created_at": "2026-09-25T13:46:22.361Z",
-      "expired_at": "2026-09-25T13:51:05.667Z",
-      "payment_ref_no": "GM97130678",
-      "qr_url": "https://www.gobox.my.id/file/yBnqqkmIEOjI.png"
-    },
-    {
       "order_id": "25526",
       "email": "ammotion6790@gmail.com",
       "product_name": "Alight Motion [1 Tahun]",

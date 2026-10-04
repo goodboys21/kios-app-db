@@ -1,14 +1,3 @@
 {
-  "pending_orders": [
-    {
-      "order_id": "28527",
-      "email": "sealuxpratam@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4729,
-      "created_at": "2026-10-04T15:16:33.268Z",
-      "expired_at": "2026-10-04T15:21:27.416Z",
-      "payment_ref_no": "28527",
-      "qr_url": "https://sp40712.serpul.co.id/storage/image/qris/qris_179112698928527.png"
-    }
-  ]
+  "pending_orders": []
 }

@@ -1,36 +1,6 @@
 {
   "pending_orders": [
     {
-      "order_id": "30030",
-      "email": "rakanashistudio@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4124,
-      "created_at": "2026-10-09T16:12:06.199Z",
-      "expired_at": "2026-10-09T16:16:59.363Z",
-      "payment_ref_no": "30030",
-      "qr_url": "https://sp40712.serpul.co.id/storage/image/qris/qris_179156232230030.png"
-    },
-    {
-      "order_id": "30031",
-      "email": "tianedts@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4397,
-      "created_at": "2026-10-09T16:12:47.261Z",
-      "expired_at": "2026-10-09T16:17:41.065Z",
-      "payment_ref_no": "30031",
-      "qr_url": "https://sp40712.serpul.co.id/storage/image/qris/qris_179156236330031.png"
-    },
-    {
-      "order_id": "30032",
-      "email": "rivowelcruchil@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4427,
-      "created_at": "2026-10-09T16:13:14.105Z",
-      "expired_at": "2026-10-09T16:18:07.631Z",
-      "payment_ref_no": "30032",
-      "qr_url": "https://sp40712.serpul.co.id/storage/image/qris/qris_179156239030032.png"
-    },
-    {
       "order_id": "30033",
       "email": "ffraditakun4@gmail.com",
       "product_name": "Alight Motion [1 Tahun]",

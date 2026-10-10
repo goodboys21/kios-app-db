@@ -6,11 +6,24 @@
   "fee": 500,
   "total": 4000,
   "ip_address": "182.3.8.229",
-  "status": "processing",
+  "status": "success",
   "payment_ref_no": "TOPUP906911950076759",
   "payment_url": "https://www.goodmotion.id/invoice/TOPUP906911950076759",
   "qr_url": "https://www.goodpay.zone.id/qris/00020101021226610014COM.GO-JEK.WWW01189360091439045063290210G9045063290303UME51440014ID.CO.QRIS.WWW0215ID20254666737330303UME520458175303360540450005802ID5925Zodialo%20-%20Digital%20Applica6013JAKARTA%20BARAT61051152062395028A120261010204042jG6innv58lID0703A01630489F6",
   "qr_image": "https://www.goodpay.zone.id/qris/00020101021226610014COM.GO-JEK.WWW01189360091439045063290210G9045063290303UME51440014ID.CO.QRIS.WWW0215ID20254666737330303UME520458175303360540450005802ID5925Zodialo%20-%20Digital%20Applica6013JAKARTA%20BARAT61051152062395028A120261010204042jG6innv58lID0703A01630489F6",
   "created_at": "2026-10-10T20:40:44.342Z",
-  "expired_at": "2026-10-10T20:45:37.135Z"
+  "expired_at": "2026-10-10T20:45:37.135Z",
+  "paid_at": "2026-10-10T20:42:24.449Z",
+  "email_sent": true,
+  "delivered_account": {
+    "original_email": "gmsj0td9@olipii.com",
+    "status": "PREMIUM ACTIVE"
+  },
+  "payment_method": "QRIS",
+  "verified_by": "Topup Saldo (Direct ACC)",
+  "raw_payload": {
+    "id": "TOPUP906911950076759",
+    "amount": 5000,
+    "status": "success"
+  }
 }

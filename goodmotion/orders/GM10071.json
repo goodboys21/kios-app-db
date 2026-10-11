@@ -6,11 +6,24 @@
   "fee": 1437,
   "total": 4937,
   "ip_address": "182.253.131.7",
-  "status": "processing",
-  "payment_ref_no": "GM10071",
+  "status": "success",
+  "payment_ref_no": "01a129a1-6f00-7000-8c01-c2fdaab35879",
   "payment_url": "https://www.goodmotion.id/invoice/GM10071",
   "qr_url": "https://www.goodpay.zone.id/qris/00020101021226610014COM.GO-JEK.WWW01189360091437142524970210G7142524970303UMI51440014ID.CO.QRIS.WWW0215ID10266135401800303UMI520489995303360540449375802ID5925Good%20DigiPay%2C%20Digital%20%26%20K6008PEMALANG61055236562180703A010107GM100716304F5EF",
   "qr_image": "https://www.goodpay.zone.id/qris/00020101021226610014COM.GO-JEK.WWW01189360091437142524970210G7142524970303UMI51440014ID.CO.QRIS.WWW0215ID10266135401800303UMI520489995303360540449375802ID5925Good%20DigiPay%2C%20Digital%20%26%20K6008PEMALANG61055236562180703A010107GM100716304F5EF",
   "created_at": "2026-10-11T06:22:27.864Z",
-  "expired_at": "2026-10-11T06:27:24.711Z"
+  "expired_at": "2026-10-11T06:27:24.711Z",
+  "paid_at": "2026-10-11T13:23:28+07:00",
+  "email_sent": true,
+  "delivered_account": {
+    "original_email": "gm2k7dra@olipii.com",
+    "status": "PREMIUM ACTIVE"
+  },
+  "payment_method": "QRIS",
+  "verified_by": "GoBiz API (Validator)",
+  "raw_payload": {
+    "id": "GM10071",
+    "amount": 4937,
+    "status": "success"
+  }
 }

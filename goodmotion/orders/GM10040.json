@@ -6,11 +6,24 @@
   "fee": 1367,
   "total": 4867,
   "ip_address": "103.154.77.63",
-  "status": "processing",
+  "status": "success",
   "payment_ref_no": "GM10040",
   "payment_url": "https://www.goodmotion.id/invoice/GM10040",
   "qr_url": "https://www.goodpay.zone.id/qris/00020101021126610014COM.GO-JEK.WWW01189360091437142524970210G7142524970303UMI51440014ID.CO.QRIS.WWW0215ID10266135401800303UMI520489995303360540448675802ID5925Good%20DigiPay%2C%20Digital%20%26%20K6008PEMALANG61055236562070703A016304E7C6",
   "qr_image": "https://www.goodpay.zone.id/qris/00020101021126610014COM.GO-JEK.WWW01189360091437142524970210G7142524970303UMI51440014ID.CO.QRIS.WWW0215ID10266135401800303UMI520489995303360540448675802ID5925Good%20DigiPay%2C%20Digital%20%26%20K6008PEMALANG61055236562070703A016304E7C6",
   "created_at": "2026-10-11T03:52:23.999Z",
-  "expired_at": "2026-10-11T03:57:20.032Z"
+  "expired_at": "2026-10-11T03:57:20.032Z",
+  "paid_at": "2026-10-11T03:53:31.204Z",
+  "email_sent": true,
+  "delivered_account": {
+    "original_email": "gmb943vh@olipii.com",
+    "status": "PREMIUM ACTIVE"
+  },
+  "payment_method": "QRIS",
+  "verified_by": "Bypass / Webhook Direct",
+  "raw_payload": {
+    "id": "GM10040",
+    "amount": 4867,
+    "status": "success"
+  }
 }

@@ -6,11 +6,24 @@
   "fee": 1323,
   "total": 4823,
   "ip_address": "158.140.163.81",
-  "status": "processing",
+  "status": "success",
   "payment_ref_no": "30793",
   "payment_url": "https://www.goodmotion.id/invoice/30793",
   "qr_url": "https://sp40712.serpul.co.id/storage/image/qris/qris_179189968630793.png",
   "qr_image": "https://sp40712.serpul.co.id/storage/image/qris/qris_179189968630793.png",
   "created_at": "2026-10-13T13:54:49.773Z",
-  "expired_at": "2026-10-13T13:59:42.960Z"
+  "expired_at": "2026-10-13T13:59:42.960Z",
+  "paid_at": "2026-10-13T13:57:37.312Z",
+  "email_sent": true,
+  "delivered_account": {
+    "original_email": "gmidmcbj@olipii.com",
+    "status": "PREMIUM ACTIVE"
+  },
+  "payment_method": "QRIS",
+  "verified_by": "Serpul SP40712",
+  "raw_payload": {
+    "id": 30793,
+    "amount": 4823,
+    "status": "success"
+  }
 }

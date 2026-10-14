@@ -1,14 +1,3 @@
 {
-  "pending_orders": [
-    {
-      "order_id": "GM100260",
-      "email": "kapkap7fs@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4848,
-      "created_at": "2026-10-14T14:02:50.623Z",
-      "expired_at": "2026-10-14T14:07:42.519Z",
-      "payment_ref_no": "GM100260",
-      "qr_url": "https://www.goodpay.zone.id/qris/00020101021126670016COM.NOBUBANK.WWW01189360050300000903190214261012000018000303UMI51440014ID.CO.QRIS.WWW0215ID10266146760330303UMI520448125303360540448485802ID5913GOOD%20DIGICELL6008PEMALANG61055236562070703A01630469A4"
-    }
-  ]
+  "pending_orders": []
 }

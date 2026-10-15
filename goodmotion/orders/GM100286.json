@@ -6,11 +6,24 @@
   "fee": 1464,
   "total": 4964,
   "ip_address": "114.125.233.220",
-  "status": "processing",
+  "status": "success",
   "payment_ref_no": "GM100286",
   "payment_url": "https://www.goodmotion.id/invoice/GM100286",
   "qr_url": "https://www.goodpay.zone.id/qris/00020101021126670016COM.NOBUBANK.WWW01189360050300000903190214261012000018000303UMI51440014ID.CO.QRIS.WWW0215ID10266146760330303UMI520448125303360540449645802ID5913GOOD%20DIGICELL6008PEMALANG61055236562070703A016304E6BB",
   "qr_image": "https://www.goodpay.zone.id/qris/00020101021126670016COM.NOBUBANK.WWW01189360050300000903190214261012000018000303UMI51440014ID.CO.QRIS.WWW0215ID10266146760330303UMI520448125303360540449645802ID5913GOOD%20DIGICELL6008PEMALANG61055236562070703A016304E6BB",
   "created_at": "2026-10-15T01:02:27.185Z",
-  "expired_at": "2026-10-15T01:07:21.885Z"
+  "expired_at": "2026-10-15T01:07:21.885Z",
+  "paid_at": "2026-10-15T01:03:43.704Z",
+  "email_sent": true,
+  "delivered_account": {
+    "original_email": "gmcjnk8b@olipii.com",
+    "status": "PREMIUM ACTIVE"
+  },
+  "payment_method": "QRIS",
+  "verified_by": "Topupkuota",
+  "raw_payload": {
+    "id": "GM100286",
+    "amount": 4964,
+    "status": "success"
+  }
 }

@@ -1,16 +1,6 @@
 {
   "pending_orders": [
     {
-      "order_id": "GM100446",
-      "email": "bramusee@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4489,
-      "created_at": "2026-10-16T04:38:51.561Z",
-      "expired_at": "2026-10-16T04:43:43.249Z",
-      "payment_ref_no": "GM100446",
-      "qr_url": "https://www.gobox.my.id/file/gQYCuTRU35Ae.png"
-    },
-    {
       "order_id": "GM100447",
       "email": "lukaskelioyogi@gmail.com",
       "product_name": "Alight Motion [1 Tahun]",

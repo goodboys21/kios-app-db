@@ -1,14 +1,3 @@
 {
-  "pending_orders": [
-    {
-      "order_id": "GM102145",
-      "email": "dendilhyper69@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4448,
-      "created_at": "2026-10-25T13:49:51.551Z",
-      "expired_at": "2026-10-25T13:54:45.052Z",
-      "payment_ref_no": "GM102145",
-      "qr_url": "https://www.gobox.my.id/file/ROlzL9ftQxsd.png"
-    }
-  ]
+  "pending_orders": []
 }

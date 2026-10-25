@@ -1,14 +1,3 @@
 {
-  "pending_orders": [
-    {
-      "order_id": "GM102094",
-      "email": "adilakenzy@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4055,
-      "created_at": "2026-10-25T10:21:33.085Z",
-      "expired_at": "2026-10-25T10:26:25.356Z",
-      "payment_ref_no": "GM102094",
-      "qr_url": "https://www.gobox.my.id/file/fYIiam560hAf.png"
-    }
-  ]
+  "pending_orders": []
 }

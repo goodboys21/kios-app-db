@@ -6,11 +6,24 @@
   "fee": 718,
   "total": 4218,
   "ip_address": "153.60.129.25",
-  "status": "processing",
+  "status": "success",
   "payment_ref_no": "GM103102",
   "payment_url": "https://www.goodmotion.id/invoice/GM103102",
   "qr_url": "https://www.gobox.my.id/file/ze37g8seGq33.png",
   "qr_image": "https://www.gobox.my.id/file/ze37g8seGq33.png",
   "created_at": "2026-10-31T04:58:31.516Z",
-  "expired_at": "2026-10-31T05:03:25.960Z"
+  "expired_at": "2026-10-31T05:03:25.960Z",
+  "paid_at": "2026-10-31T04:59:22.438Z",
+  "email_sent": true,
+  "delivered_account": {
+    "original_email": "gmnljan1@olipii.com",
+    "status": "PREMIUM ACTIVE"
+  },
+  "payment_method": "QRIS",
+  "verified_by": "Topupkuota",
+  "raw_payload": {
+    "id": "GM103102",
+    "amount": 4218,
+    "status": "success"
+  }
 }

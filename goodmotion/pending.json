@@ -1,16 +1,6 @@
 {
   "pending_orders": [
     {
-      "order_id": "GM103393",
-      "email": "abidksp48@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4891,
-      "created_at": "2026-11-01T11:47:30.343Z",
-      "expired_at": "2026-11-01T11:52:19.919Z",
-      "payment_ref_no": "GM103393",
-      "qr_url": "https://www.gobox.my.id/file/hwfcwMLCoUms.png"
-    },
-    {
       "order_id": "GM103397",
       "email": "melolotes4@gmail.com",
       "product_name": "Alight Motion [1 Tahun]",

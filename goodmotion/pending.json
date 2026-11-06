@@ -1,14 +1,3 @@
 {
-  "pending_orders": [
-    {
-      "order_id": "GM104620",
-      "email": "elecuyijut@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4217,
-      "created_at": "2026-11-06T11:07:53.111Z",
-      "expired_at": "2026-11-06T11:12:47.089Z",
-      "payment_ref_no": "GM104620",
-      "qr_url": "https://n.uguu.se/PYUJjgWb.png"
-    }
-  ]
+  "pending_orders": []
 }

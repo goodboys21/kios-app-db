@@ -1,14 +1,3 @@
 {
-  "pending_orders": [
-    {
-      "order_id": "GM104802",
-      "email": "iloveebaconacorn@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4986,
-      "created_at": "2026-11-07T11:45:57.408Z",
-      "expired_at": "2026-11-07T11:50:51.858Z",
-      "payment_ref_no": "GM104802",
-      "qr_url": "https://d.uguu.se/MhevTqnG.png"
-    }
-  ]
+  "pending_orders": []
 }

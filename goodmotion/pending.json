@@ -1,16 +1,6 @@
 {
   "pending_orders": [
     {
-      "order_id": "GM105044",
-      "email": "aldobagas9@icloud.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4243,
-      "created_at": "2026-11-08T15:03:40.754Z",
-      "expired_at": "2026-11-08T15:08:35.157Z",
-      "payment_ref_no": "GM105044",
-      "qr_url": "https://d.uguu.se/AVjLHlMR.png"
-    },
-    {
       "order_id": "GM105045",
       "email": "raymondsukamieayam@gmail.com",
       "product_name": "Alight Motion [1 Tahun]",

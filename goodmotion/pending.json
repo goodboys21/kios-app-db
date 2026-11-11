@@ -1,14 +1,3 @@
 {
-  "pending_orders": [
-    {
-      "order_id": "GM105489",
-      "email": "diangaming305@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4684,
-      "created_at": "2026-11-11T16:54:20.856Z",
-      "expired_at": "2026-11-11T16:59:15.424Z",
-      "payment_ref_no": "GM105489",
-      "qr_url": "https://d.uguu.se/TwQskSkl.png"
-    }
-  ]
+  "pending_orders": []
 }

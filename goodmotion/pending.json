@@ -1,16 +1,6 @@
 {
   "pending_orders": [
     {
-      "order_id": "GM105837",
-      "email": "clayytonclipper@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4028,
-      "created_at": "2026-11-14T01:56:28.096Z",
-      "expired_at": "2026-11-14T02:01:22.183Z",
-      "payment_ref_no": "GM105837",
-      "qr_url": "https://d.uguu.se/KGsQQYNJ.png"
-    },
-    {
       "order_id": "GM105838",
       "email": "scorpiokingaz@gmail.com",
       "product_name": "Alight Motion [1 Tahun]",

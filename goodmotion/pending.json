@@ -1,14 +1,3 @@
 {
-  "pending_orders": [
-    {
-      "order_id": "GM106052",
-      "email": "spentingae@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4289,
-      "created_at": "2026-11-15T01:36:20.110Z",
-      "expired_at": "2026-11-15T01:41:14.286Z",
-      "payment_ref_no": "GM106052",
-      "qr_url": "https://n.uguu.se/veyTVumGQQgU.png"
-    }
-  ]
+  "pending_orders": []
 }

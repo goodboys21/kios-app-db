@@ -1,14 +1,3 @@
 {
-  "pending_orders": [
-    {
-      "order_id": "GM106090",
-      "email": "aulaarival@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4709,
-      "created_at": "2026-11-15T04:10:49.246Z",
-      "expired_at": "2026-11-15T04:15:42.927Z",
-      "payment_ref_no": "GM106090",
-      "qr_url": "https://d.uguu.se/FpyqHPrpNBAP.png"
-    }
-  ]
+  "pending_orders": []
 }

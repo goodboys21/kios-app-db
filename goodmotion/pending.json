@@ -1,26 +1,6 @@
 {
   "pending_orders": [
     {
-      "order_id": "GM106593",
-      "email": "cambaket222@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4632,
-      "created_at": "2026-11-18T13:24:07.903Z",
-      "expired_at": "2026-11-18T13:29:01.704Z",
-      "payment_ref_no": "GM106593",
-      "qr_url": "https://n.uguu.se/bJYryBTiZEjJ.png"
-    },
-    {
-      "order_id": "GM106594",
-      "email": "raka12340p@gmail.com",
-      "product_name": "Alight Motion [1 Tahun]",
-      "total": 4336,
-      "created_at": "2026-11-18T13:24:14.483Z",
-      "expired_at": "2026-11-18T13:29:08.617Z",
-      "payment_ref_no": "GM106594",
-      "qr_url": "https://d.uguu.se/KcFFcKahXkyH.png"
-    },
-    {
       "order_id": "GM106595",
       "email": "cambaket222@gmail.com",
       "product_name": "Alight Motion [1 Tahun]",

@@ -6,11 +6,24 @@
   "fee": 840,
   "total": 4340,
   "ip_address": "114.125.63.68",
-  "status": "processing",
+  "status": "success",
   "payment_ref_no": "GM106986",
   "payment_url": "https://www.goodmotion.id/invoice/GM106986",
   "qr_url": "https://d.uguu.se/cPoEoLOYylcV.png",
   "qr_image": "https://d.uguu.se/cPoEoLOYylcV.png",
   "created_at": "2026-11-21T12:09:55.218Z",
-  "expired_at": "2026-11-21T12:14:50.158Z"
+  "expired_at": "2026-11-21T12:14:50.158Z",
+  "paid_at": "2026-11-21T12:11:00.052Z",
+  "email_sent": true,
+  "delivered_account": {
+    "original_email": "gmq1rpb0@olipii.com",
+    "status": "PREMIUM ACTIVE"
+  },
+  "payment_method": "QRIS",
+  "verified_by": "Topupkuota",
+  "raw_payload": {
+    "id": "GM106986",
+    "amount": 4340,
+    "status": "success"
+  }
 }
